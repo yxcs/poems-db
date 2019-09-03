@@ -15,13 +15,13 @@
 ### 古诗文程序
 
 小程序名称：唐诗宋词古诗词鉴赏。（名字特别长，短的名字都被人注册了）
-小程序码：
+小程序码：![小程序码](https://raw.githubusercontent.com/yxcs/poems-db/master/mini-qrcode.png)
 
 ### 如果感兴趣可以添加个人微信
 
 微信号：lin410725008  
 
-微信二维码：
+微信二维码：![微信二维码](https://raw.githubusercontent.com/yxcs/poems-db/master/wx-qrcode.jpg)
 
 ### 索引导航
 
