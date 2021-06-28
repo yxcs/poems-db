@@ -20,6 +20,12 @@
 
 ![小程序码](https://raw.githubusercontent.com/yxcs/poems-db/master/mini-qrcode.png)
 
+
+### 打赏
+
+如果觉得有用可以打赏哦！
+
+![微信收款码](https://raw.githubusercontent.com/yxcs/poems-db/master/WechatIMG204.jpeg)
 ### 如果感兴趣可以添加个人微信
 
 微信号：lin410725008  
