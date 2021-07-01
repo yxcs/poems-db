@@ -1,0 +1,1530 @@
+{
+  "孝经类": [
+    {
+      "id": 45,
+      "nameStr": "孝经",
+      "author": "孔丘",
+      "chaodai": null,
+      "cont": "　　《孝经》中国古代儒家的伦理学著作。传说是孔子自作，但南宋时已有人怀疑是出于后人附会。清代纪昀在《四库全书总目》中指出，该书是孔子“七十子之徒之遗言”，成书于秦汉之际。自西汉至魏晋南北朝，注解者及百家。现在流行的版本是唐玄宗李隆基注，宋代邢昺疏。全书共分18章。 ",
+      "fenlei": null,
+      "axing": 0,
+      "bxing": 0,
+      "cxing": 0,
+      "dxing": 0,
+      "exing": 0,
+      "ipStr": null,
+      "nameStrKey": null,
+      "pic": "xiaojing",
+      "classStr": null,
+      "type": null,
+      "creTime": "/Date(-62135596800000)/",
+      "juCount": 17,
+      "idjm": "46653FD803893E4F640E24BD63B0F779",
+      "book": {
+        "tb_book": {
+          "id": 45,
+          "idjm": "46653FD803893E4F640E24BD63B0F779",
+          "nameStr": "孝经",
+          "author": "孔丘",
+          "chaodai": null,
+          "cont": "　　《孝经》中国古代儒家的伦理学著作。传说是孔子自作，但南宋时已有人怀疑是出于后人附会。清代纪昀在《四库全书总目》中指出，该书是孔子“七十子之徒之遗言”，成书于秦汉之际。自西汉至魏晋南北朝，注解者及百家。现在流行的版本是唐玄宗李隆基注，宋代邢昺疏。全书共分18章。 ",
+          "fenlei": "",
+          "axing": 0,
+          "bxing": 0,
+          "cxing": 0,
+          "dxing": 0,
+          "exing": 0,
+          "ipStr": null,
+          "nameStrKey": null,
+          "pic": "xiaojing",
+          "classStr": "经部",
+          "type": "孝经类",
+          "creTime": "/Date(-62135596800000)/",
+          "juCount": 17
+        },
+        "tb_bookviews": {
+          "bookviews": [
+            {
+              "id": 4092,
+              "num": 0,
+              "nameStr": "开宗明义",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F030CC714C2C05175",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4092,
+                  "num": 1,
+                  "nameStr": "开宗明义",
+                  "author": "孔丘",
+                  "cont": "　　仲尼居，曾子侍。子曰：“先王有至德要道，以顺天下，民用和睦，上下无怨。汝知之乎？”曾子避席曰：“参不敏，何足以知之？”子曰：“夫孝，德之本也，教之所由生也。复坐，吾语汝。身体发肤，受之父母，不敢毁伤，孝之始也。立身行道，扬名于后世，以显父母，孝之终也。夫孝，始于事亲，中于事君，终于立身。《大雅》云：‘无念尔祖，聿修厥德。'”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4092/ok.mp3",
+                  "idjm": "46653FD803893E4F030CC714C2C05175",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2688,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4092,
+                      "ok": 268,
+                      "noOk": 49,
+                      "cont": "<p>　　孔子在家里闲坐，他的学生曾参侍坐在旁边。孔子说∶“古代的圣德贤王有至高无上的品行，掌握着最重要的事物之理，以其使天下人心归顺，百姓和睦相处。人们无论是尊贵还是卑贱，上上下下都没有怨恨不满。你知道这是为什么吗？”曾子站起身来，离开自己的座位恭敬回答到∶“学生我不够聪敏，哪里能知道其中的道理呢？”孔子说：“孝，是道德的根本，对百姓的教化也是从孝中产生的。你先回到位置上坐下，我来告诉你。人的身体四肢、毛发皮肤，都是父母赐予我们的，不敢予以损毁伤残，这是遵从孝道的开始。人在世上遵循仁义道德，有所建树，显扬名声于后世，从而使父母显赫荣耀，这是孝的终极目标。所谓孝，最初是从侍奉父母开始，然后效力于国君，最终建功立业，功成名就。《诗经·大雅·文王》篇中说过∶‘怎么能不追念你先祖的德行呢？要称述修行先祖的美德啊！’”</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 0,
+                "prevIdjm": "46653FD803893E4FF99C0E013AA86B06",
+                "nextId": 4093,
+                "nextIdjm": "46653FD803893E4F8AC443FACE740229"
+              }
+            },
+            {
+              "id": 4093,
+              "num": 0,
+              "nameStr": "天子",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F8AC443FACE740229",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4093,
+                  "num": 2,
+                  "nameStr": "天子",
+                  "author": "孔丘",
+                  "cont": "　　子曰：爱亲者，不敢恶于人；敬亲者，不敢慢于人。爱敬尽于事亲，而德教加于百姓，刑于四海。盖天子之孝也。《甫刑》云：“一人有庆，兆民赖之。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4093/ok.mp3",
+                  "idjm": "46653FD803893E4F8AC443FACE740229",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2689,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4093,
+                      "ok": 134,
+                      "noOk": 13,
+                      "cont": "　　孔子说：“能够亲爱自己父母的人，也一定不会厌恶他人，能够尊敬自己父母的人，就一定不会怠慢他人。以亲爱恭敬的心情尽心尽力地侍奉自己的父母，而将德行教化施之于黎民百姓，使天下百姓遵从效法，这就是天子的孝道呀！《尚书·甫刑》里说：‘天子一人有善行；万方民众都仰赖他。’” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4092,
+                "prevIdjm": "46653FD803893E4F030CC714C2C05175",
+                "nextId": 4094,
+                "nextIdjm": "46653FD803893E4F86AFD0B526C6052D"
+              }
+            },
+            {
+              "id": 4094,
+              "num": 0,
+              "nameStr": "诸侯",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F86AFD0B526C6052D",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4094,
+                  "num": 3,
+                  "nameStr": "诸侯",
+                  "author": "孔丘",
+                  "cont": "　　在上不骄，高而不危；制节谨度，满而不溢。高而不危，所以长守贵也。满而不溢，所以长守富也。富贵不离其身，然后能保其社稷，而和其民人。盖诸侯之孝也。《诗》云：“战战兢兢，如临深渊，如履薄冰。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4094/ok.mp3",
+                  "idjm": "46653FD803893E4F86AFD0B526C6052D",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2690,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4094,
+                      "ok": 91,
+                      "noOk": 7,
+                      "cont": "<p>　　身为诸侯，位于众人之上而不骄傲自大，其位置再高也不会有倾覆的危险；生活节俭、慎行法度，财富再充裕丰盈也不会损溢。身居高位而没有倾覆的危险，所以能够长久地守住自己的尊贵地位；财富充裕而不奢靡挥霍，所以能够长久地保有自己的财富。能够保持富有和尊贵，然后才能保住自身及家国的安全，并使百姓和睦相处。这大概就是诸侯的孝道吧。《诗经·小雅·小曼》篇中说：“战战兢兢，就像身临深水潭边恐怕坠落，脚踩薄冰之上担心陷下去那样，小心谨慎地处事。”</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4093,
+                "prevIdjm": "46653FD803893E4F8AC443FACE740229",
+                "nextId": 4095,
+                "nextIdjm": "46653FD803893E4F9C0F5BB31B501260"
+              }
+            },
+            {
+              "id": 4095,
+              "num": 0,
+              "nameStr": "卿大夫",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F9C0F5BB31B501260",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4095,
+                  "num": 4,
+                  "nameStr": "卿大夫",
+                  "author": "孔丘",
+                  "cont": "　　非先王之法服不敢服，非先王之法言不敢道，非先王之德行不敢行。是故非 法不言，非道不行；口无择言，身无择行。言满天下无口过，行满天下无怨恶。 三者备矣，然后能守其宗庙。盖卿、大夫之孝也。《诗》云：“夙夜匪懈，以事 一人。” ",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4095/ok.mp3",
+                  "idjm": "46653FD803893E4F9C0F5BB31B501260",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2691,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4095,
+                      "ok": 68,
+                      "noOk": 18,
+                      "cont": "　　不是先代圣明君王所制定的合乎礼法的衣服不敢穿戴，不是先代圣明君王所说的合乎礼法的言语，不敢说出口；不是先代圣明君王实行的道德准则和行为，不敢去做。所以不合乎礼法的话不说，不合乎礼法道德的行为不做；说出的话是经过深思熟虑合乎礼仪的，自己的行为不必着意考虑也不会越轨。于是所说的话即便天下皆知也不会有过失之处，所做的事传遍天下也不会遇到怨恨厌恶。衣饰、语言、行为这三点都能做到遵从先代圣明君王的礼法准则，然后才能守住自己祖宗的香火延续兴盛。这就是卿、大夫的孝道啊！《诗经·大雅· 民》里说：“要从早到晚勤勉不懈，专心奉事天子。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4094,
+                "prevIdjm": "46653FD803893E4F86AFD0B526C6052D",
+                "nextId": 4096,
+                "nextIdjm": "46653FD803893E4FB13D1072B1A4F18B"
+              }
+            },
+            {
+              "id": 4096,
+              "num": 0,
+              "nameStr": "士",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FB13D1072B1A4F18B",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4096,
+                  "num": 5,
+                  "nameStr": "士",
+                  "author": "孔丘",
+                  "cont": "　　资于事父以事母，而爱同；资于事父以事君，而敬同。故母取其爱，而君取 其敬，兼之者父也。故以孝事君则忠，以敬事长则顺。忠顺不失，以事其上，然 后能保其禄位，而守其祭祀。盖士之孝也。《诗》云：“夙兴夜寐，无忝尔所生。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4096/ok.mp3",
+                  "idjm": "46653FD803893E4FB13D1072B1A4F18B",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2692,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4096,
+                      "ok": 90,
+                      "noOk": 8,
+                      "cont": "　　用奉事父亲的心情去奉事母亲，爱心是相同的；用奉事父亲的心情去奉事国君，崇敬之心也是相同的。所以奉事母亲是用爱心，奉事国君是用尊敬之心，两者兼而有之的是对待父亲。因此用孝道来奉事国君就忠诚，用尊敬之道奉事上级则顺从。能做到忠诚顺从地奉事国君和上级，然后即能保住自己的俸禄和职位，并能守住自己对祖先的祭祀。这就是士人的孝道啊！《诗经·小雅·小宛》里说：“要早起晚睡地去做，不要辱及生养你的父母。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4095,
+                "prevIdjm": "46653FD803893E4F9C0F5BB31B501260",
+                "nextId": 4097,
+                "nextIdjm": "46653FD803893E4F1B7E439AD2AC170A"
+              }
+            },
+            {
+              "id": 4097,
+              "num": 0,
+              "nameStr": "庶人",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F1B7E439AD2AC170A",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4097,
+                  "num": 6,
+                  "nameStr": "庶人",
+                  "author": "孔丘",
+                  "cont": "　　用天之道，分地之利，谨身节用，以养父母，此庶人之孝也。故自天子至于 庶人，孝无终始，而患不及者，未之有也。",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4097/ok.mp3",
+                  "idjm": "46653FD803893E4F1B7E439AD2AC170A",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2693,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4097,
+                      "ok": 70,
+                      "noOk": 9,
+                      "cont": "　　利用自然的季节，认清土地的高下优劣，行为谨慎，节省俭约，以此来孝养父母，这就是普通老百姓的孝道了。所以上自天子，下至普通老百姓，不论尊卑高下，孝道是无始无终，永恒存在的，有人担心自己不能做到孝，那是没有的事情。 ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4096,
+                "prevIdjm": "46653FD803893E4FB13D1072B1A4F18B",
+                "nextId": 4098,
+                "nextIdjm": "46653FD803893E4FA4EADF487B82EBF7"
+              }
+            },
+            {
+              "id": 4098,
+              "num": 0,
+              "nameStr": "三才",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FA4EADF487B82EBF7",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4098,
+                  "num": 7,
+                  "nameStr": "三才",
+                  "author": "孔丘",
+                  "cont": "　　曾子曰：“甚哉，孝之大也！”子曰：“夫孝，天之经也，地之义也，民之行也。天地之经，而民是则之。则天之明，因地之利，以顺天下。是以其教不肃而成，其政不严而治。先王见教之可以化民也，是故先之以博爱，而民莫遗其亲；陈之以德义，而民兴行。先之以敬让，而民不争；导之以礼乐，而民和睦；示之以好恶，而民知禁。《诗》云：‘赫赫师尹，民具尔瞻。'”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4098/ok.mp3",
+                  "idjm": "46653FD803893E4FA4EADF487B82EBF7",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2694,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4098,
+                      "ok": 75,
+                      "noOk": 10,
+                      "cont": "　　曾子说：“太伟大了！孝道是多么博大高深呀！” 孔子说：“孝道犹如天上日月星辰的运行，地上万物的自然生长，天经地义，乃是人类最为根本首要的品行。天地有其自然法则，人类从其法则中领悟到实行孝道是为自身的法则而遵循它。效法上天那永恒不变的规律，利用大地自然四季中的优势，顺乎自然规律对天下民众施以政教。因此其教化不须严肃施为就可成功，其政治不须严厉推行就能得以治理。从前的贤明君主看到通过教育可以感化民众，所以他首先表现为博爱，人民因此没敢遗弃父母双亲的；向人民陈述道德、礼义，人民就起来去遵行，他又率先以恭敬和谦让垂范于人民，于是人民就不争斗。用礼仪和音乐引导他们，人民就和睦相处；告诉人民对值得喜好的美的东西和今人厌恶的丑的东西的区别，人民就知道禁令而不犯法了。《诗经·小雅·节南山》篇中说：‘威严而显赫的太师尹氏，人民都仰望着你。’” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4097,
+                "prevIdjm": "46653FD803893E4F1B7E439AD2AC170A",
+                "nextId": 4099,
+                "nextIdjm": "46653FD803893E4FBA009D26D7986E46"
+              }
+            },
+            {
+              "id": 4099,
+              "num": 0,
+              "nameStr": "孝治",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FBA009D26D7986E46",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4099,
+                  "num": 8,
+                  "nameStr": "孝治",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“昔者明王之以孝治天下也，不敢遗小国之臣，而况于公、侯、伯、子、 男乎？故得万国之欢心，以事其先王。治国者，不敢侮于鳏寡，而况于士民乎？ 故得百姓之欢心，以事其先君。治家者，不敢失于臣妾，而况于妻子乎？故得人 之欢心，以事其亲。夫然，故生则亲安之，祭则鬼享之。是以天下和平，灾害不 生，祸乱不作。故明王之以孝治天下也如此。《诗》云：‘有觉德行，四国顺 之。’”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4099/ok.mp3",
+                  "idjm": "46653FD803893E4FBA009D26D7986E46",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2695,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4099,
+                      "ok": 59,
+                      "noOk": 8,
+                      "cont": "　　孔子说：“从前圣明的君王是以孝道治理天下的，即便是对极卑微的小国的臣属也不遗弃，更何况是公、侯、伯、子、男五等诸侯了。所以会得到各诸侯国臣民的欢心，使他们奉祀先王。治理一个封国的诸侯，即便是对失去妻子的男人和丧夫守寡的女人也不敢欺侮，更何况对他属下的臣民百姓了，所以会得到老百姓的欢心，使他们帮助诸侯祭祀祖先。治理自己卿邑的卿大夫，即便对于臣仆婢妾也不失礼，更何况对其妻子、儿女了，所以会得到众人的欢心，便他们乐意奉事其父母亲。只有这样，才会让父母双亲在世时安乐、祥和地生活，死后成为鬼神享受到后代的祭祖。因此也就能够使天下祥和太平，自然灾害不发生，人为的祸乱不会出现。所以圣明的君王以孝道治理天下，就会像上面所说的那样。《诗经·大雅·仰之》篇中说∶‘天子有伟大的德行，四方的国家都会归顺他。’” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4098,
+                "prevIdjm": "46653FD803893E4FA4EADF487B82EBF7",
+                "nextId": 4100,
+                "nextIdjm": "46653FD803893E4FF857F5D536447BC3"
+              }
+            },
+            {
+              "id": 4100,
+              "num": 0,
+              "nameStr": "圣治",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FF857F5D536447BC3",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4100,
+                  "num": 9,
+                  "nameStr": "圣治",
+                  "author": "孔丘",
+                  "cont": "　　曾子曰：“敢问圣人之德，无以加于孝乎？”子曰：“天地之性，人为贵。 人之行，莫大于孝。孝莫大于严父。严父莫大于配天，则周公其人也。昔者，周 公郊祀后稷以配天，宗祀文王于明堂，以配上帝。是以四海之内，各以其职来祭。 夫圣人之德，又何以加于孝乎？故亲生之膝下，以养父母日严。圣人因严以教敬， 因亲以教爱。圣人之教，不肃而成，其政不严而治，其所因者本也。父子之道， 天性也，君臣之义也。父母生之，续莫大焉。君亲临之，厚莫重焉。故不爱其亲 而爱他人者，谓之悖德；不敬其亲而敬他人者，谓之悖礼。以顺则逆，民无则焉。 不在于善，而皆在于凶德，虽得之，君子不贵也。君子则不然，言思可道，行思 可乐，德义可尊，作事可法，容止可观，进退可度，以临其民。是以其民畏而爱 之，则而象之。故能成其德教，而行其政令。《诗》云：‘淑人君子，其仪不 忒。’”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4100/ok.mp3",
+                  "idjm": "46653FD803893E4FF857F5D536447BC3",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2696,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4100,
+                      "ok": 57,
+                      "noOk": 7,
+                      "cont": "　　曾子说：“我很冒昧地请问，圣人的德行，没有比孝道更大的了吗？”孔子说：“天地万物之中，以人类最为尊贵。人类的行为，没有比孝道更为重大的了。在孝道之中，没有比敬重父亲更重要的了。敬重父亲，没有比在祭天的时候，将祖先配祀天帝更为重大的了，而只有周公能够做到这一点。当初，周公在郊外祭天的时候，把其始祖后稷配把天帝；在明堂祭祀，又把父亲文王配祀天帝。因为他这样做，所以全国各地诸侯能够克尽职守，前来协助他的祭祀活动。可见圣人的德行，又有甚么能超出孝道之上呢？因为子女对父母亲的敬爱，在年幼相依父母亲膝下时就产生了，待到逐渐长大成人，则一天比一天懂得了对父母亲尊严的爱敬。圣人就是依据这种子女对父母尊敬的天性，教导人们对父母孝敬；又因为子女对父母天生的亲情，教导他们爱的道理。圣人的教化之所以不必严厉的推行就可以成功，圣人对国家的管理不必施以严厉粗暴的方式就可以治理好，是因为他们因循的是孝道这一天生自然的根本天性。父亲与儿子的亲恩之情，乃是出于人类天生的本性，也体现了君主与臣属之间的义理关系。父母生下儿女以传宗接代，没有比此更为重要的了；父亲对于子女又犹如尊严的君王，其施恩于子女，没有比这样的恩爱更厚重的了。所以那种不敬爱自己的父母却去爱敬别人的行为，叫做违背道德；不尊敬自己的父母而尊敬别人的行为，叫做违背礼法。不是顺应人心天理地爱敬父母，偏偏要逆天理而行，人民就无从效法了。不是在身行爱敬的善道上下功夫，相反凭藉违背道德礼法的恶道施为，虽然能一时得志，也是为君子所卑视的。君子的作为则不是这样，其言谈，必须考虑到要让人们所称道奉行；其作为，必须想到可以给人们带来欢乐，其立德行义，能使人民为之尊敬；其行为举止，可使人民予以效法；其容貌行止，皆合规矩，使人们无可挑剔；其一进一退，不越礼违法，成为人民的楷模。君子以这样的作为来治理国家，统治黎民百姓，所以民众敬畏而爱戴他，并学习仿艾其作为。所以君子能够成就其德治教化，顺利地推行其法规、命令。《诗经·曹风· 鸠》篇中说：‘善人君子，其容貌举止丝毫不差。’” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4099,
+                "prevIdjm": "46653FD803893E4FBA009D26D7986E46",
+                "nextId": 4101,
+                "nextIdjm": "46653FD803893E4F34BEC54B88F854D2"
+              }
+            },
+            {
+              "id": 4101,
+              "num": 0,
+              "nameStr": "纪孝行",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F34BEC54B88F854D2",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4101,
+                  "num": 10,
+                  "nameStr": "纪孝行",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“孝子之事亲也，居则致其敬，养则致其乐，病则致其忧，丧则致其 哀，祭则致其严。五者备矣，然后能事亲。事亲者，居上不骄，为下不乱，在丑 不争。居上而骄则亡，为下而乱则刑，在丑而争则兵。三者不除，虽日用三牲之养， 犹为不孝也。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4101/ok.mp3",
+                  "idjm": "46653FD803893E4F34BEC54B88F854D2",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2697,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4101,
+                      "ok": 74,
+                      "noOk": 8,
+                      "cont": "　　孔子说：“孝子对父母亲的侍奉，在日常家居的时候，要竭尽对父母的恭敬，在饮食生活的奉养时，要保持和悦愉快的心情去服事；父母生病，要带着忧虑的心情去照料；父母去世了，要竭尽悲哀之情料理后事；对先人的祭祀，要严肃对待，做到礼法不乱。这五方面做得完备周到了，方可称为对父母尽到了子女的责任。侍奉父母双亲，要身居高位而不骄傲蛮横，身居下层而不为非作乱，在民众中间和顺相处、不与人争斗。身居高位而骄傲自大的人势必会招致灭亡，在下层而为非作乱的人免不了遭受刑法，在民众中争斗则会引起相互残杀。这骄、乱、争三项恶事不戒除，即便对父母天天用牛羊猪三牲的肉食尽心奉养，也还是个不孝之人。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4100,
+                "prevIdjm": "46653FD803893E4FF857F5D536447BC3",
+                "nextId": 4102,
+                "nextIdjm": "46653FD803893E4F506C90DB71C20DB7"
+              }
+            },
+            {
+              "id": 4102,
+              "num": 0,
+              "nameStr": "五刑",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F506C90DB71C20DB7",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4102,
+                  "num": 11,
+                  "nameStr": "五刑",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“五刑之属三千，而罪莫大于不孝。要君者无上，非圣人者无法，非 孝者无亲。此大乱之道也。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4102/ok.mp3",
+                  "idjm": "46653FD803893E4F506C90DB71C20DB7",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2698,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4102,
+                      "ok": 40,
+                      "noOk": 6,
+                      "cont": "　　孔子说：“五刑所属的犯罪条例有三千条之多，其中没有比不孝的罪过更大的了。用武力胁迫君主的人，是眼中没有君主的存在；诽谤圣人的人，是眼中没有法纪；对行孝的人有非议、不恭敬，是眼中没有父母双亲的存在。这三种人的行径，乃是天下大乱的根源所在。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4101,
+                "prevIdjm": "46653FD803893E4F34BEC54B88F854D2",
+                "nextId": 4103,
+                "nextIdjm": "46653FD803893E4FC26CDA0CFBCFA73F"
+              }
+            },
+            {
+              "id": 4103,
+              "num": 0,
+              "nameStr": "广要道",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FC26CDA0CFBCFA73F",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4103,
+                  "num": 12,
+                  "nameStr": "广要道",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“教民亲爱，莫善于孝。教民礼顺，莫善于悌。移风易俗，莫善于乐。 安上治民，莫善于礼。礼者，敬而已矣。故敬其父，则子悦；敬其兄，则弟悦； 敬其君，则臣悦；敬一人，而千万人悦。所敬者寡，而悦者众，此之谓要道也。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4103/ok.mp3",
+                  "idjm": "46653FD803893E4FC26CDA0CFBCFA73F",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2699,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4103,
+                      "ok": 54,
+                      "noOk": 6,
+                      "cont": "　　孔子说：“教育百姓互相亲近友爱，没有比倡导孝道更好的方法了。教育百姓礼貌和顺，没有比服从自己兄长更好的方法了。转移风气、改变旧的习惯制度，没有比用音乐感化更好的方法了。要想使君主安心，百姓驯服，没有比用礼教办事更好的了。所谓的礼，也就是敬爱而已。所以尊敬他人的父亲，其儿子就会喜悦；尊敬他人的兄长，其弟弟就愉快；尊敬他人的君主，其臣下就高兴。敬爱一个人，却能使千万人高兴愉快。所尊敬的对象虽然只是少数，但是为之喜悦的人却有千千万万，这就是礼敬作为要道的意义之所在啊。”",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4102,
+                "prevIdjm": "46653FD803893E4F506C90DB71C20DB7",
+                "nextId": 4104,
+                "nextIdjm": "46653FD803893E4FA92B27827562CDFE"
+              }
+            },
+            {
+              "id": 4104,
+              "num": 0,
+              "nameStr": "广至德",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FA92B27827562CDFE",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4104,
+                  "num": 13,
+                  "nameStr": "广至德",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“君子之教以孝也，非家至而日见之也。教以孝，所以敬天下之为人 父者也。教以悌，所以敬天下之为人兄者也。教以臣，所以敬天下之为人君者也。 《诗》云：‘恺悌君子，民之父母。’非至德，其孰能顺民如此其大者乎！”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4104/ok.mp3",
+                  "idjm": "46653FD803893E4FA92B27827562CDFE",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2700,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4104,
+                      "ok": 50,
+                      "noOk": 5,
+                      "cont": "　　孔子说：“君子教人以行孝道，并不是挨家挨户去推行，也不是天天当面去教导。君子教人行孝道，是让天下为父亲的人都能得到尊敬。教人以为弟之道，是让天下为兄长的人都能受到尊敬。教人以为臣之道，是让天下为君主的能受到尊敬。《诗经·大雅· 酌》篇里说：‘和乐平易的君子，是民众的父母。’不是具有至高无上的德行，其怎么能使天下民众顺从而如此伟大呢！” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4103,
+                "prevIdjm": "46653FD803893E4FC26CDA0CFBCFA73F",
+                "nextId": 4105,
+                "nextIdjm": "46653FD803893E4F5F540EF554341B99"
+              }
+            },
+            {
+              "id": 4105,
+              "num": 0,
+              "nameStr": "广扬名",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F5F540EF554341B99",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4105,
+                  "num": 14,
+                  "nameStr": "广扬名",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“君子之事亲孝，故忠可移于君。事兄悌，故顺可移于长。居家理， 故治可移于官。是以行成于内，而名立于后世矣。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4105/ok.mp3",
+                  "idjm": "46653FD803893E4F5F540EF554341B99",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2701,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4105,
+                      "ok": 48,
+                      "noOk": 8,
+                      "cont": "　　孔子说：“君子侍奉父母亲能尽孝，所以能把对父母的孝心移作对国君的忠心；奉事兄长能尽敬，所以能把这种尽敬之心移作对前辈或上司的敬顺；在家里能处理好家务，所以会把理家的道理移于做官治理国家。因此说能够在家里尽孝悌之道、治理好家政的人，其名声也就会显扬于后世了。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4104,
+                "prevIdjm": "46653FD803893E4FA92B27827562CDFE",
+                "nextId": 4106,
+                "nextIdjm": "46653FD803893E4FB252D2072443EE28"
+              }
+            },
+            {
+              "id": 4106,
+              "num": 0,
+              "nameStr": "谏诤",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FB252D2072443EE28",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4106,
+                  "num": 15,
+                  "nameStr": "谏诤",
+                  "author": "孔丘",
+                  "cont": "　　曾子曰：“若夫慈爱、恭敬、安亲、扬名，则闻命矣。敢问子从父之令，可 谓孝乎？”子曰：“是何言与，是何言与！昔者天子有争臣七人，虽无道，不失 其天下；诸侯有争臣五人，虽无道，不失其国；大夫有争臣三人，虽无道，不失 其家；士有争友，则身不离于令名；父有争子，则身不陷于不义。故当不义，则子不可以不争于父，臣不可以不争于君；故当不义，则争之。从父之令，又焉得为孝乎！”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4106/ok.mp3",
+                  "idjm": "46653FD803893E4FB252D2072443EE28",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2702,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4106,
+                      "ok": 72,
+                      "noOk": 7,
+                      "cont": "　　曾子说：“像慈爱、恭敬、安亲、扬名这些孝道，已经听过了天子的教诲，我想再冒昧地问一下，做儿子的一味遵从父亲的命令，就可称得上是孝顺了吗？”孔子说：“这是甚么话呢？这是甚么话呢？从前，天子身边有7个直言相谏的诤臣，因此，纵使天子是个无道昏君，他也不会失去其天下；诸侯有直言谏争的诤臣五人，即便自己是个无道君主，也不会失去他的诸侯国地盘；卿大夫也有三位直言劝谏的臣属，所以即使他是个无道之臣，也不会失去自己的家园。普通的读书人有直言劝争的朋友，自己的美好名声就不会丧失；为父亲的有敢于直言力争的儿子，就能使父亲不会陷身于不义之中。因此在遇到不义之事时，如系父亲所为，做儿子的不可以不劝争力阻；如系君王所为，做臣子的不可以不直言谏争。所以对于不义之事，一定要谏争劝阻。如果只是遵从父亲的命令，又怎么称得上是孝顺呢？” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4105,
+                "prevIdjm": "46653FD803893E4F5F540EF554341B99",
+                "nextId": 4107,
+                "nextIdjm": "46653FD803893E4F303AED3A3C479C77"
+              }
+            },
+            {
+              "id": 4107,
+              "num": 0,
+              "nameStr": "感应",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F303AED3A3C479C77",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4107,
+                  "num": 16,
+                  "nameStr": "感应",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“昔者明王事父孝，故事天明；事母孝，故事地察；长幼顺，故上下治。天地明察，神明彰矣。故虽天子，必有尊也，言有父也；必有先也，言有兄也。宗庙致敬，不忘亲也；修身慎行，恐辱先也。宗庙致敬，鬼神着矣。孝悌之至，通于神明，光于四海，无所不通。《诗》云：‘自西自东，自南自北，无思不服。’”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4107/ok.mp3",
+                  "idjm": "46653FD803893E4F303AED3A3C479C77",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2703,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4107,
+                      "ok": 40,
+                      "noOk": 10,
+                      "cont": "<p>　　孔子说：“从前，贤明的帝王奉事父亲很孝顺，所以在祭祀天帝时能够明白上天覆庇万物的道理；奉事母亲很孝顺，所以在社祭后土时能够明察大地孕育万物的道理；理顺处理好长幼秩序，所以对上下各层也就能够治理好。能够明察天地覆育万物的道理，神明感应其诚，就会彰明神灵、降临福瑞来保佑。所以虽然尊贵为天子，也必然有他所尊敬的人，这就是指他有父亲；必然有先他出生的人，这就是指他有兄长。到宗庙里祭祀致以恭敬之意，是没有忘记自己的亲人；修身养心，谨慎行事，是因为恐怕因自己的过失而使先人蒙受羞侮辱。到宗庙祀表达敬意，神明就会出来享受。对父母兄长孝敬顺从达到了极至，即可以通达于神明，光照天下，任何地方都可以感应相通。《诗经·大雅·文王有声》篇中说：‘从西到东，从南到北，没有人不想悦服的。’”</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4106,
+                "prevIdjm": "46653FD803893E4FB252D2072443EE28",
+                "nextId": 4108,
+                "nextIdjm": "46653FD803893E4F7A994599F48D959A"
+              }
+            },
+            {
+              "id": 4108,
+              "num": 0,
+              "nameStr": "事君",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F7A994599F48D959A",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4108,
+                  "num": 17,
+                  "nameStr": "事君",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“君子之事上也，进思尽忠，退思补过，将顺其美，匡救其恶，故上 下能相亲也。《诗》云：‘心乎爱矣，遐不谓矣，中心藏之，何日忘之。’”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4108/ok.mp3",
+                  "idjm": "46653FD803893E4F7A994599F48D959A",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2704,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4108,
+                      "ok": 41,
+                      "noOk": 4,
+                      "cont": "　　孔子说：“君子奉事君王，在朝廷为官的时候，要想看如何竭尽其忠心；退官居家的时候，要想看如何补救君王的过失。对于君王的优点，要顺应发扬；对于君王的过失缺点，要匡正补救，所以君臣关系才能够相互亲敬。《诗经·小雅·隰桑》篇中说：‘心中充溢着爱敬的情怀，无论多么遥远，这片真诚的爱心永久藏在心中，从不会有忘记的那一天。’” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4107,
+                "prevIdjm": "46653FD803893E4F303AED3A3C479C77",
+                "nextId": 4109,
+                "nextIdjm": "46653FD803893E4FB70D1C693CE79D18"
+              }
+            },
+            {
+              "id": 4109,
+              "num": 0,
+              "nameStr": "丧亲",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FB70D1C693CE79D18",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 4109,
+                  "num": 18,
+                  "nameStr": "丧亲",
+                  "author": "孔丘",
+                  "cont": "　　子曰：“孝子之丧亲也，哭不偯，礼无容，言不文，服美不安，闻乐不乐， 食旨不甘，此哀戚之情也。三日而食，教民无以死伤生。毁不灭性，此圣人之政 也。丧不过三年，示民有终也。为之棺椁衣衾而举之，陈其簠簋而哀戚之；擗踊 哭泣，哀以送之；卜其宅兆，而安措之；为之宗庙，以鬼享之；春秋祭祀，以时 思之。生事爱敬，死事哀戚，生民之本尽矣，死生之义备矣，孝子之事亲终矣。”",
+                  "bookName": "孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 45,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/4109/ok.mp3",
+                  "idjm": "46653FD803893E4FB70D1C693CE79D18",
+                  "bookIDjm": "46653FD803893E4F640E24BD63B0F779"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 2705,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 4109,
+                      "ok": 78,
+                      "noOk": 10,
+                      "cont": "　　孔子说：“孝子丧失了父母亲，要哭得声嘶力竭，发不出悠长的哭腔；举止行为失去了平时的端正礼仪，言语没有了条理文采，穿上华美的衣服就心中不安，听到美妙的音乐也不快乐，吃美味的食物不觉得好吃，这是做子女的因失去亲人而悲伤忧愁的表现。父母之丧，三天之后就要吃东西，这是教导人民不要因失去亲人的悲哀而损伤生者的身体，不要因过度的哀毁而灭绝人生的天性，这是圣贤君子的为政之道。为亲人守丧不超过3年，是告诉人们居丧是有其终止期限的。办丧事的时候，要为去世的父母准备好棺材、外棺、穿戴的衣饰和铺盖的被子等，妥善地安置进棺内，陈列摆设上 、簋类祭奠器具，以寄托生者的哀痛和悲伤。出殡的时候，捶胸顿足，嚎啕大哭地哀痛出送。占卜墓穴吉地以安葬。兴建起祭祀用的庙宇，使亡灵有所归依并享受生者的祭祀。在春秋两季举行祭祀，以表示生者无时不思念亡故的亲人。在父母亲在世时以爱和敬来奉事他们，在他们去世后，则怀看悲哀之情料理丧事，如此尽到了人生在世应尽的本分和义务。养生送死的大义都做到了，才算是完成了作为孝子侍奉亲人的义务。” ",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "《孝经》.北京：北京联合出版公司.2015.07",
+                      "isYuanchuang": true
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 4108,
+                "prevIdjm": "46653FD803893E4F7A994599F48D959A",
+                "nextId": 0,
+                "nextIdjm": "46653FD803893E4FF99C0E013AA86B06"
+              }
+            }
+          ],
+          "masterTitle": "通过典籍获取章节"
+        },
+        "tb_author": {
+          "id": 856,
+          "idnew": "F109A664FD351A7CDBF87E153B9D4DA2",
+          "nameStr": "孔丘",
+          "cont": "<p>孔子（公元前551年9月28日―公元前479年4月11日），子姓，孔氏，名丘，字仲尼，春秋末期鲁国陬邑（今山东曲阜）人，祖籍宋国栗邑（今河南夏邑），中国古代思想家、教育家，儒家学派创始人。孔子是当时社会上最博学者之一，在世时就被尊奉为“天纵之圣”“天之木铎”，更被后世统治者尊为孔圣人、至圣、至圣先师、大成至圣文宣王先师、万世师表。其思想对中国和世界都有深远的影响，其人被列为“世界十大文化名人”之首。</p>",
+          "chaodai": "",
+          "pic": "kongqiu",
+          "likes": 0,
+          "ipStr": "user:1912411",
+          "creTime": "/Date(-62135596800000)/",
+          "shiCount": 0,
+          "juCount": 206,
+          "idsc": "9DB83A52CC844D40"
+        }
+      }
+    },
+    {
+      "id": 64,
+      "nameStr": "文昌孝经",
+      "author": "佚名",
+      "chaodai": null,
+      "cont": "　　《文昌孝经》是道家从自身的自然宇宙观出发，指出人的自然生命承载体的可贵，父母生育子女受尽辛苦，养育子女耗尽心血，子女应该体恤孝敬父母，并以此道推己及人，由此不但保全自身天性，还可以获得上天赐福科举成功，乃至证果得道，是一部很具有道家特色的弘扬孝道的典籍。 ",
+      "fenlei": null,
+      "axing": 0,
+      "bxing": 0,
+      "cxing": 0,
+      "dxing": 0,
+      "exing": 0,
+      "ipStr": null,
+      "nameStrKey": null,
+      "pic": "wenchangxiaojing",
+      "classStr": null,
+      "type": null,
+      "creTime": "/Date(-62135596800000)/",
+      "juCount": 0,
+      "idjm": "46653FD803893E4F8779184BC5D59E23",
+      "book": {
+        "tb_book": {
+          "id": 64,
+          "idjm": "46653FD803893E4F8779184BC5D59E23",
+          "nameStr": "文昌孝经",
+          "author": "佚名",
+          "chaodai": null,
+          "cont": "　　《文昌孝经》是道家从自身的自然宇宙观出发，指出人的自然生命承载体的可贵，父母生育子女受尽辛苦，养育子女耗尽心血，子女应该体恤孝敬父母，并以此道推己及人，由此不但保全自身天性，还可以获得上天赐福科举成功，乃至证果得道，是一部很具有道家特色的弘扬孝道的典籍。 ",
+          "fenlei": "",
+          "axing": 0,
+          "bxing": 0,
+          "cxing": 0,
+          "dxing": 0,
+          "exing": 0,
+          "ipStr": null,
+          "nameStrKey": null,
+          "pic": "wenchangxiaojing",
+          "classStr": "经部",
+          "type": "孝经类",
+          "creTime": "/Date(-62135596800000)/",
+          "juCount": 0
+        },
+        "tb_bookviews": {
+          "bookviews": [
+            {
+              "id": 5262,
+              "num": 0,
+              "nameStr": "开经启",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F9527202B0DFB30EC",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5262,
+                  "num": 1,
+                  "nameStr": "开经启",
+                  "author": "佚名",
+                  "cont": "　　浩浩紫宸天，郁郁宝华筵，文明光妙道，正觉位皇元，振嗣恩素重，救劫孝登先，大洞完本愿，应验子心坚。 ",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5262/ok.mp3",
+                  "idjm": "46653FD803893E4F9527202B0DFB30EC",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3533,
+                      "nameStr": "译文及注释",
+                      "author": "佚名",
+                      "bookvID": 5262,
+                      "ok": 44,
+                      "noOk": 1,
+                      "cont": "<p><strong>译文</strong><br />　　广大宽阔的紫宸天，香气浓郁的宝华筵。文德辉耀的奇妙之道，体悟大道的人位列仙班。振兴人们子嗣的恩泽向来都很重，而要想解救人们的灾难祸患，应当从行孝开始。大道完成了人们的本愿，文昌帝君提倡的孝道灵验无比，人们应当信心坚如磐石。</p>\r\n<p><strong>注释</strong><br />①紫宸（chén）天：道教天界名，为天神上帝所居之所。紫，古人认为的祥瑞之色；宸，即北极星所在，后借指帝王所居。<br />②宝华筵（yán）：也作宝花，珍贵的花。多指佛国或佛寺的花。筵，宴席。<br />③正觉：觉悟。本指如来之实智，名为正觉。证语一切诸法的真正觉智。成佛也说是“正觉”。<br />④大洞：即大道。<br />⑤应验：原来的预言或估计与事后的结果相合或得到证实。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 0,
+                "prevIdjm": "46653FD803893E4FF99C0E013AA86B06",
+                "nextId": 5263,
+                "nextIdjm": "46653FD803893E4FF8E2AB17AED36D66"
+              }
+            },
+            {
+              "id": 5263,
+              "num": 0,
+              "nameStr": "育子章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FF8E2AB17AED36D66",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5263,
+                  "num": 2,
+                  "nameStr": "育子章",
+                  "author": "佚名",
+                  "cont": "<p>　　真君曰：乾为大父，坤为大母，含宏覆载，胞与万有，群类咸遂，各得其所。赋形为物，禀理为人，超物最灵，脱离蠢劫，戴高履厚，俯仰自若，相安不觉，失其真性。父兮母兮，育我者宏，两大生成，一小天地，世人不悟，全不知孝，吾今阐明，以省大众。</p>\r\n<p>　　乾坤养物，劳而不劳；父母生子，不劳而劳，自字及妊，自幼迄壮，心力所注，无有休歇。十月未生，在母腹中，母呼亦呼，母吸亦吸，耽娠如山，筋疼血滞，寝处不舒。临盆性命，若不自保，父心关恻，母体担虞，纵令易诞，费尽劳苦。若或迟久，不行分娩，艰难震恐，死中幸生，几舍其母，始获其子。一月暗居，三年乳哺，啼即怀抱，犹恐不调，睡令安寝，戒勿动摇，含食以饲，帖衣以裹，谅其饥饱，适其寒暑，痘疹关煞，急遽惊悸，咿唔解语，匍匐学行，手不释提，心不释护。</p>\r\n<p>　　子既年长，恐其不寿，多方保持，幸而克佑，筹划有无，计其婚媾，厥龄多少，诸务未晓，一出一入，处处念之，绸缪咨嗟，谆谆诫命，亲心惆怅，子方燕乐，教之生计，教之成业。</p>\r\n<p>　　母诞维艰，父诲匪易。虽至英年，恤若孩提，食留子餐，胜如己餐；衣留子衣，胜如己衣。子若有疾，有可代者，己所甘受。子若远游，行旅风霜，梦寐通之；逾期不归，睛穿肠断。子有寸善，夸扬乐与；子有小过，回护遮盖，暗自伤心，恐其名败。子惟贤能，父母有赖；子若不肖，父母谁倚？子若妄为，父母身危，作事未事，俱切亲情。</p>\r\n<p>　　芽栽茁培，堂基构植，母勤子生，父作子述，其行其志，不厌其苦，怜子念子，何时放置，形或暂离，心恒无间。贵如帝王，神如天亶，显如公卿，贱如编户，愚如齐氓，皆如是心。混沌初分，亘古及今，普天匝地，绵绵恻怛，父母之心，无不如是。如乾覆物，如坤载物，和蔼流盈，充塞两间，莫大慈悲，无过亲心。</p>\r\n<p>　　即说偈曰：万般劳瘁有时休，育子辛勤无尽头，字怀耐苦终无厌，训诲循徐不惮求，一叶灵根非易植，穷年爱护几曾忧，子俱亲自身栽养，亲老心犹为子寿。</p>\r\n<p>　　又说偈曰：真诚一片结成慈，全无半点饰虚时，慈中栽养灵根大，生生不已自无涯。</p>\r\n<p>　　灵慈神咒：佛菩萨菩提心，大罗会上陀罗尼，一切救苦难，无过我亲心，圣主仁君，救济生灵，不忍一匹之不生，无如爱子心，靡所不至诚，推极仁惠者，孰能逾二人。</p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5263/ok.mp3",
+                  "idjm": "46653FD803893E4FF8E2AB17AED36D66",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3534,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5263,
+                      "ok": 79,
+                      "noOk": 1,
+                      "cont": "<p>　　真君说：天为大父，地为大母。天地包容养育万物，以万物为同胞朋友。于是万物都得以顺利生长，各得其所。天地赋予形体以成就万物，人秉承性理以成之为人。于是人能够超过万物之上，成为万物之灵，脱离愚笨蠢物。人头顶天，脚立地，俯察于下，仰观于上，得以自然地顺从其本性。人们如果安于现实，不知不觉，就会迷失自己的自然本性。父母生育我的恩情最宏大。天地与父母两大，生成人身一小天地。世人不自省悟，完全不知道行孝。我今天清楚阐明，以警醒大众。</p>\r\n<p>　　天地养育万物，似辛劳而又不辛劳；父母生育子女，似不辛劳而又辛劳。自怀孕到生产，自幼年至壮年，父母所倾注的心力，没有休止。胎儿在母腹中没生下来的十月间，母亲呼气，胎儿也呼气；母亲吸气，胎儿也吸气。母亲身怀妊娠之苦，如同身体压着一座山一样，周身筋骨疼痛，血脉凝滞，坐卧都不舒坦。分娩之时，母亲性命都难以自保。父亲关心悲伤，母亲身体担着忧患。即使容易生产，也是受尽各种忧劳苦楚。如果长久在母腹中，不能分娩，母亲就更艰难恐惧。死里逃生，几乎丢掉母亲的性命，方才得到孩子。母亲产后，闭门休养一月，乳哺孩子三年。婴儿啼哭，当即抱在怀里，仍怕有不舒服。睡觉就要使他安稳地睡着，一定不去动摇他。口含食物以喂养他，常解自己的衣服将他包裹着。揣度孩子的饥饱，让其冷热适中。</p>\r\n<p>　　在孩子出痘疹、犯关煞的时候，父母心中非常惊恐。当孩子牙牙学语、蹒跚学步之时，父母手不离左右，心里毫不放松对孩子的照顾。随着孩子年龄的增长，父母又恐怕其命不长久，多方设法护持。侥幸能够得到神灵庇佑，又要为其筹划家产衣食，设法婚配。此时孩子年纪尚轻，各种事务尚未明晓。不管是出门还是在家，各个方面，父母无不挂念。情意殷切，长吁短叹，恳切耐心地教诲劝告。正因为有父母的忧虑，才有了子女安乐美好的生活。教授子女谋生之计，教授子女如何成就事业。母亲生育子女非常艰难，父亲教诲子女也不容易。</p>\r\n<p>　　尽管子女已经长大成人，父母仍然像对待幼童一样对其体贴入微。留作子女吃的饭食，胜过自己的食物；留作子女穿着的衣服，胜过自己的衣服。子女若有疾病，比自己得病还要担忧。如有能够代替子女承受的病痛，自己则甘愿忍受。子女如果远行，旅途风霜劳苦，父母放心不下，常在睡梦中梦到。逾期不归，父母则眼睛望穿，肝肠望断。子女有微小的优点，父母就会赞美宣扬；如果子女有小的过错，父母总会袒护遮掩，并暗自伤心，唯恐其名声败坏。子女只有贤良能干，父母才有依靠；子女如果无德无才，那么父母还能依靠谁呢？子女如果胡作妄为，就会连累父母，使其处于危险的境地。不管有无做事，都要贴合父母的心意。</p>\r\n<p>　　就像生物萌芽，就必须栽育；要让其茁壮成长，就必须培育；子女长大后，还要为他们建筑庭堂，植立根基。母亲勤劳，不过是希望子女能够顺利成长；父亲有所创造，无非是希望子女能够传承于后。父母养育子女，不厌其苦。父母怜惜挂念子女，没有放下之时。既使身体暂时分离，父母的心也永远不会远离子女。即使是如帝王般尊贵，如圣贤般聪明，如公卿般显赫，又或者如平民般贫贱，如未开化之人般愚钝，其爱子女之心，无不如此。不管是困厄还是显达，不管是愁苦还是喜乐，不管是活着的还是已经去世的，也不管是在人世还是在阴间，父母的心也都如此。天地初开，从古至今，普天遍地，爱子女之心真切连绵，作父母的无不如此。如同上天覆盖万物，如同大地承载万物，温和慈爱流盈，充满天地之间。再大的慈悲，也比不过父母爱子之心。</p>\r\n<p>　　于是说偈道：万般劳累都有停止的时候，只有养育子女的辛劳没有尽头。怀孕生育，忍受苦痛，从不厌烦。训导告诫，循序渐进，不怕索求。培养子女智慧聪明不是容易的事情，父母终日爱护从来没有犹豫过。子女都是父母自身养育的，父母人老后心里仍在为子女操心筹划。</p>\r\n<p>　　又说偈道：一片真诚结成慈爱心，完全没有半点矫饰虚伪。慈爱中养育子女聪慧成长，生生不已没有尽头。</p>\r\n<p>　　灵慈神咒：佛菩萨的菩提心，大罗会上的陀罗尼，一切救苦救难的菩萨，都不会超越我父母的爱心。圣明仁慈的君主，救济生灵，不忍心一个生物不能生长，这都不如父母的爱子之心，父母的爱子之心，没有不出于至诚之心的。就是推究极为仁慈惠爱的人，谁也不能够超越父母二人的爱心。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5262,
+                "prevIdjm": "46653FD803893E4F9527202B0DFB30EC",
+                "nextId": 5264,
+                "nextIdjm": "46653FD803893E4FD16BE03E728867DC"
+              }
+            },
+            {
+              "id": 5264,
+              "num": 0,
+              "nameStr": "体亲章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FD16BE03E728867DC",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5264,
+                  "num": 3,
+                  "nameStr": "体亲章",
+                  "author": "佚名",
+                  "cont": "<p>　　真君曰：前章所言，不止育子，直将子心，亲曲体之。凡为人子，当以二亲，体我心者，还体亲心。体我此身，骨禀父生，肉禀母成，一肤一发，或有毁伤，亲心隐痛，子心何安？心为身主，太和蕴毓，父兮所化，母兮所育，一有不孝，失亲本来。孝先百行，根从心起，定省温清，时以敬将；每作一事，思以慰亲，每发一言，思以告亲；入承亲颜，亲欢我顺，亲愁我解；出必告亲，恐有恶行，以祸亲身，归必省亲，恐有恶声，以拂亲心。力行戒慝，随时加惕，口业不干，身业不作，恐有意业，欺亲欺身，恐有心业，累身累亲。我有手足，父母一体，异母兄弟，总属天伦，恐有参商，残亲支体；叔伯同根，宗族一家，恐有乖戾，伤亲骨肉；祖曾上人，恐失率事，悖亲孝思；子孙后裔，恐失字育，断亲嗣脉，恐失教训，败亲家规；子侄世系，恐失敦睦，贻亲庭衅；我夫我妇，子媳之职，恐失和敬，致亲不安。我有姻娅，属亲至戚，恐失夙好，至亲不宁。上而有君，为亲所主，恐有不忠，致亲以逆；下而民物，与亲并育，恐有不恤，损亲之福；外而友朋，为亲之辅，恐有不信，绝亲友道；师为我法，即为亲箴，事恐失贤，以违亲训；匪人壬人，亲之所远，交恐不择，以累亲志。仰而天高，帝位乎上，日月星斗，亲所敬畏，恐有冒渎，妄干天怒，致重亲辜；俯而地厚，群生资始，亲所奉履，恐有亵侮，业积暴殄，致延亲祸；中而神祗，司我亲命，恐有过犯，致减亲纪。一举一动，总期归善，以成亲德。我亲有善，身顺其美，救人之难，即是亲救；济人之急，即是亲济；悯人之孤，即是亲悯；容人之过，即是亲容。种种不一，体亲至意。亲或有过，委曲进谏，俟其必改。以善规亲，犹承以养，养必兼善，方得为子。人各有亲，曷不怀思，父母在日，寿不过百，惟德之长，垂裕弥遐，是以至孝。亲在一日，得养一日，堂上皆承，膝下完聚，人生最乐，惜此光阴，诚不易得，玉食三殽，勺水一菽，各尽其欢。加餐则喜，减膳则惧，贫富丰啬，敬无二心。愿亲常安，恐体失和，疾病休戚，常系子心，一当有恙，能不滋虞，药必先尝，衣不解带，服劳侍寝，愈则徐调，食不轻进，相其所宜；尚或不痊，延医询卜，酒不沾唇，至心祷祝，殚厥念力，以求必痊。终天之日，饮食不甘，哭泣失音，衣衾棺椁，多方自尽，三年哀痛，晨昏设荐，佳茔厚穴，安置垄丘，礼送归祠，亲魂有托，庙享墓祭，四时以妥；去亲日远，追思常在，形容面目，若闻若见，动息语默，寻声觅迹，中心勿忘，抱慕如存。生死同情，幽明一理，孝道由基，大经斯彰。嗟尔人子，纵能如是，体之亲心，未及万一。</p>\r\n<p>　　偈曰：幼而得亲全，安乐不之晓，设无双亲在，饥寒难自保，遭此伶仃苦，方思亲在好。</p>\r\n<p>　　又说偈曰：嬉嬉怀抱中，惟知依二亲，何至长大后，渐失尔天真，我亲既生我，我全不能孝，云何我养儿，我又恤之深，反观觉愧悔，方知父母恩。</p>\r\n<p>　　又说偈曰：室家是亲戚，岂是离亲地，莫道风光好，遂把亲欢易，贫贱是前因，岂是父母遗，生不托亲体，我并无人身，莫怨生我苦，修来自有畀，富贵是亲培，岂是骄亲具，亲若不教我，何有富贵遇，报本正在此，赤胆安可替，最易忘亲处，万宜加省惕。</p>\r\n<p>　　真君曰：子在怀抱，啼笑嘻戏，俱关亲心，实惟真挚，为人子者，能如是否，试一念之，何能暂释。父母强健，能嬉能笑，能饮能食，子所幸见；父母渐衰，嬉笑饮食，未必如常，子心所惕，责我不楚，怜亲力弱，嗔我声微，怜亲气怯，愈加安养，勿致暂劳；父母逝世，苦无嬉笑，及我颜色，苦无怒詈，及我身受。纵有厚禄，亲不能食，纵有锦帛，亲不能被。生不尽欢，追思何及，逝者念子，存者念亲，祭享悠远，隔不相见，思一慰之，悲哀天地，言念斯苦，实难为子。</p>\r\n<p>　　乃说偈曰：亲昔养儿日，岂比强壮年，我方学语处，亲疑我啼也，我方跬步时，亲疑我蹶也，我方咿唔处，亲疑我疾也，我方思食处，亲知我饥也，我方思衣处，亲知我寒也。安得本斯志，体恤在亲先。亲今且垂暮，亦岂强壮比，欲将饲我者，奉亲膳食时，欲将褓我者，侍亲寝息时，欲将顾我者，扶亲衰老时，欲将育我者，事亲终天时。何者我曾尽，全然不之觉，生我何为者，能不中自作。</p>\r\n<p>　　孝子明心咒：以此未及万一心，时时处处体亲心，当思爱养恩情大，每想怀耽乳哺深，日在生成俯仰中，覆载风光父母仁，何殊群物向春晖，切切终身抱至诚。</p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5264/ok.mp3",
+                  "idjm": "46653FD803893E4FD16BE03E728867DC",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3535,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5264,
+                      "ok": 32,
+                      "noOk": 1,
+                      "cont": "<p>　　真君说：前章所言，不只是讲养育子女，还有父母细微周到地体谅子女的心思。凡是作为子女的，应当以父母体谅自己的心情来体谅父母。体察我的身体，骨是秉受自父母的精血而化生，肉是秉承自父母的精血而生成。即使是一块皮肤，一根毛发，如果有所毁伤，父母心中都会隐隐作痛，那么子女又如何能够心安呢？心是身体的主宰，主宰天地的太和之气蕴藏其中。人身是父亲精血所化生，母亲精血所孕育的。子女一旦有不孝的行为，就失去了禀自父母的本性。</p>\r\n<p>　　孝顺优先于其他品行，根起于人心中。侍奉父母要晚上服侍就寝，早晨及时问安，冬天温被，夏日扇凉，时刻恭敬服侍。每做一件事，都要想着慰藉父母；每说一句话，都要想着告知父母。入则侍奉父母，父母的欢乐我来顺承分享，父母的忧愁由我来化解；外出必定告知父母，恐怕有恶行，以连累父母；归来后必定要探望父母，恐怕家人有恶言恶语，不顺父母的心意。尽力做到戒除恶念，随时提高警惕，不造口业，不作身业。恐怕有意业，欺骗自己，欺骗父母；恐怕有心业，牵累自身，拖累父母。</p>\r\n<p>　　我有兄弟，父母都一样相待。异母兄弟，总属天然的亲伦关系，恐怕有不和睦的情况发生，这样就如同伤害父母的肢体。叔伯兄弟，整个宗族都是一家，恐怕有不和的情况，这样会伤害父母的至亲。对于祖辈先人，恐怕有失侍奉，有悖父母孝亲之思。子孙后代，恐怕有失生育，断绝父母的后代血脉；恐怕有失教育，败坏父母的家规。子侄后辈，恐怕有失和睦，致使父母所建立的家庭生起祸端。夫妇二人要尽到为子为媳的职责，要和气逊顺，恐怕有失和顺恭敬，致使父母不安宁。我有姻亲，属于最亲近的亲属，恐怕失去老交情，使父母不安宁。向上则有君主，是父母所事奉的主宰者，恐怕有所不忠，致使父母获叛逆之罪；向下有民众万物，与父母共同生育于天地之间，恐怕对其有失怜悯，损害双亲的幸福。外面有朋友，是父母的辅助者，恐怕有失信用，断绝父母与朋友交往的准则和道义。老师是我效法的对象，老师的劝诫即是父母的劝诫，事奉老师恐怕有失贤德，违背父母的训导。行为不端和巧言谄媚的人，是父母所远离的，恐怕自己交友不慎，而连累了父母的心志。仰望则见天之高远，天帝位在其上，日月星斗，是父母所敬畏的，恐怕有所冒犯亵渎，轻易地触犯天怒，以致增加父母的罪过。俯察则见地之厚重，众生借此以生长发育，是父母所敬奉的，恐怕有所亵渎轻慢，恶业累积，损害浪费毫不顾惜，致使灾祸蔓延及父母。中间有天神地祗，主掌父母的生死，恐怕自己有过错，致使父母的阳寿减少。一举一动，都期望归于善，以成全父母的德行。</p>\r\n<p>　　父母有善行，我要承顺他们的美德。救人于危难，也就好比是双亲施救；救济别人于危急之时，也就是双亲救济；怜悯别人的孤苦，也就是双亲怜悯；宽容别人的过错，也就是双亲宽容。各种不同情况，都要体察双亲的心意。双亲如果有过错，就要委婉地提出意见，直到改正为止。用善规劝双亲，就好比承担起赡养的责任。赡养父母，同时一定要以善来劝谏，这才是为人子所应当做的。人们各自都有父母，怎么能不挂怀思念？</p>\r\n<p>　　父母在世，长寿也不过百岁，唯有功德之人，才能声名久远。所以“至孝”，就是父母在世一天，就要赡养一天。父母都健在，子女依聚在父母身边，这才是人生最快乐的事情。应当珍惜这段时光，因为这实在是太难得了。不管是富贵人家多个荤菜美食的美味佳肴，还是贫贱人家一勺水、一盘豆食的粗茶淡饭，都能让各自父母尽其欢心。子女见父母多进饮食就高兴，见父母减少膳食就担心。不管是贫贱富贵，或者是丰裕贫困，孝敬父母的心意都没有改变。希望父母永远安康，恐怕父母身体有病痛。父母的疾病和喜忧，常常牵动子女的心。一旦父母身体有病，怎能不心生担忧？喂父母的药，要自己先尝味道的甘苦，衣不解带，辛勤侍奉，服侍父母休息。父母病好之后，要慢慢调养，食物不要乱吃，要弄清其是否适宜父母食用。如果不能痊愈，就要请医问药，占卜吉凶。滴酒不沾，诚心为父母祈祷。竭尽心力，以便祈求父母痊愈。父母逝世的时候，饮食不贪求美味，痛哭以至于失声。寿衣、被褥、棺椁，都要多方设法，尽力筹备。哀痛地服丧三年，早晚都要陈设祭品。选择好的陵园，墓地建筑得坚固厚实。把遗体礼送往墓地，把精魂迎回祠堂，父母的灵魂就有了皈依。宗庙供奉，墓前祭祀，四季完备。父母离开时间久了，时常追思怀念。父母的形体容貌，就如同自己听到见到一样。于是就会常常停下行动，停止说话，顺着声音寻找父母的踪迹，心中时刻不忘。心怀敬慕，如同父母健在一样；不管生死，都同此心，不管在阴间或阳间，都是同一个道理。孝道从此根本上去做，则孝道人伦就会彰显。子女即使能够如此，体恤双亲之心，还是不及父母的万分之一。</p>\r\n<p>　　偈说：幼小时父母双全，不知道安宁快乐。假如双亲不在，饥寒交迫，生命难以自保。只有遭受了孤独无依之苦，才想念双亲健在的好处。</p>\r\n<p>　　又有偈说：在父母怀抱中玩耍，只知道依恋双亲。为什么长大后，渐渐丧失了天真？我的父母既然生育了我，我却完全不能尽孝。为什么我养育子女时，我又对他们怜恤至深？回头反省，感觉到惭愧后悔，这才知道父母的恩情有多大。</p>\r\n<p>　　又有偈说：我们夫妇家庭是父母促成的，并不是作为远离双亲的地方。不要因为外边风景好，而把对父母的喜爱改变。贫贱缘于前世的因由，不是父母遗留的。我的出生如果不依托父母的身体，也就没有我的生命。不要抱怨出生在贫苦人家，只要努力修行，就能得到回报。富贵出于父母的栽培，并不是向父母炫耀的工具。父母如果不教导我，我怎么会有富贵际遇。报答父母的根本正在这里，赤诚之心没什么能够代替。最容易忘却父母的地方，更加要警省谨慎。</p>\r\n<p>　　真君说：在父母怀抱中的幼儿，哭笑玩耍，都关系着父母的心，这完全出于真挚的情感。作为子女的，能够如此吗？试着想想父母的爱子之心，怎么能够将父母放得下一刻？父母身体强壮健康，能玩能笑，能吃能喝，子女能够见到这些就很喜欢。父母渐渐衰老，玩乐饮食，不见得同平常一样，子女心里应该有所警惕。父母责打我不疼，知道父母力气已经衰弱，父母骂我时的声音微弱，知道父母的气息不足。更要安息休养，不要使其有一点劳累。父母逝世，苦于没有父母的嬉笑，能够使我喜笑颜开；苦于没有父母的怒骂，能让我身受。即使我有丰厚的俸禄，父母也不能吃；即使我有锦帛，父母也不能穿用。不能让父母生前尽欢，追念怎么会来得及呢？死去的父母还心系子女，在世的子女还在思念父母。只能遥遥供奉祭祀，幽明分隔不能相见。想着告慰父母，却悲痛哀切无处可寻。想念非常痛苦，作为子女也实在是难。</p>\r\n<p>　　于是说偈道：以前父母抚养幼小的我，怎么能与现在正值强壮的我相比？我刚开始学说话，父母怕我是否在啼哭。我刚开始迈步时，父母怕我是否要跌倒。我刚开始发出咿呀之声时，父母怕我是否患病了。我刚想要吃东西，父母就知道我是饿了。我刚想要加衣服，父母就知道我是冷了。怎么能不以父母的情感为本，首先体恤父母。父母如今已经垂垂老矣，怎能再与强壮时相比？就像父母喂养我那样，事奉父母的饮食。就像父母照顾我，将我包裹在襁褓中一样，事奉父母就寝休息。就像父母照顾我那样，搀扶衰老时的父母。就像父母抚育我那样，事奉父母去世。这些我哪样曾经尽力做过？我完全不知觉。父母生我是为了什么，怎么不自我惭愧？</p>\r\n<p>　　孝子明心宝咒：以此未及父母万分之一的心思，时时处处体恤父母的心意。应当想到父母爱护养育我的恩情非常大，经常想到父母孕育乳哺我的深情。每日都生长在天地之中，覆载着风光和父母的仁爱。这与万物向往春天的阳光一样，没有什么不同，切记终生都要怀抱至诚之心。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5263,
+                "prevIdjm": "46653FD803893E4FF8E2AB17AED36D66",
+                "nextId": 5265,
+                "nextIdjm": "46653FD803893E4F0B4B2F628D83F8AE"
+              }
+            },
+            {
+              "id": 5265,
+              "num": 0,
+              "nameStr": "辨孝章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F0B4B2F628D83F8AE",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5265,
+                  "num": 4,
+                  "nameStr": "辨孝章",
+                  "author": "佚名",
+                  "cont": "<p>　　真君曰：吾今阐教，以示大众，亲存不养，亲殁不葬，亲祚不延，无故溺女，无故杀儿，父母客亡，骸骨不收，为大不孝。养亲口体，未足为孝，养亲心志，方为至孝；生不能养，殁虽尽孝，未足为孝，生既能养，殁亦尽孝，方为至孝。生我之母，我固当孝，后母庶母，我亦当孝。母或过黜，母或载嫁，生我劳苦，亦不可负。生而孤苦，恩育父母，且不可忘，何况生我。同母兄弟，我固当爱，前母兄弟，我亦当爱；同气姐妹，我固当和，连枝妯娌，我亦当和。我生之子，我固当恃，前室遗子，我亦当恃。众善家修，无不孝推，如是尽孝，始克为孝，始知百行，惟孝为源。</p>\r\n<p>　　我孝父母，不敬叔伯，不敬祖曾，于孝有亏；我孝父母，不和姻娅，不睦乡党，于孝有亏；我孝父母，不忠君上，不信师友，于孝有亏；我孝父母，不爱人民，不恤物命，于孝有亏；我孝父母，不敬天地，不敬三光，不敬神只，于孝有亏；我孝父母，不敬圣贤，不远邪佞，于孝有亏；我孝父母，财色妄贪，不顾性命，知过不改，见善不为，于孝有亏；淫毒妇女，破人名节，于孝有亏；力全名节，于孝更大。奉行诸善，不孝吾亲，终为小善；奉行诸善，能孝我亲，是为至善。孝之为道，本乎自然，无俟勉强，不学而能，随行而达，读书明理，因心率爱，因心率敬，于孝自全。愚氓愚俗，不雕不琢，无乖无戾，孝理自在，苟具灵根，知爱率爱，知敬率敬，于孝可推。孝庭子容，孝妇壶仪，孝男端方，孝女静贞；孝男温恭，孝女柔顺；孝子诚恳，孝妇明洁，孝子开先，孝孙录后；孝治一身，一身斯立；孝治一家，一家斯顺；孝治一国，一国斯仁；孝治天下，天下斯升；孝事天地，天地斯成。通于上下，无分贵贱。</p>\r\n<p>　　偈曰：世上伤恩总为财，诚比诸多尤为急。相通相让兄和弟，父母心欢家道吉。财生民命如哺儿，禄奉君享如养亲。本之慈孝为源流，国阜人安景物熙。</p>\r\n<p>　　又说偈曰：子赖亲安享，不思尽孝易。若或罹困苦，方知尽孝难。难易虽不同，承顺是一般。</p>\r\n<p>　　又说偈曰：今为辨孝者，辨自夫妇始。孝子赖贤助，相厥内以始；后惟尽其孝，君得成其绪；妇惟尽其孝，夫得成其家，同气因之协，安亲无他意。自古贤淑妻，动即为夫规，上克承姑顺，下克抚媳慈，从来嫉悍妇，动即为所惑，承姑必不顺，抚媳必不顺，惟尽为妻道，方可为人媳，惟尽为媳职，方可为人姑，身有为媳时，亦有为姑日，人用身为法，后人无不格。嫔妃与媵妾，致孝以安命，妇德成夫行，化从阃中式，所系重且大，淑训安可越。</p>\r\n<p>　　又说偈曰：辨之以其心，毋使有不安；辨之以其行，毋使有或偏；辨之以其时，毋使有或迁；辨之以其伦，毋使有或闻。大小各自尽，亲外罔所愆，诚伪在微茫，省惕当所先。</p>\r\n<p>　　又说偈曰：亲怀为己怀，至性实绵绵，即是佛菩萨，即是大罗仙。</p>\r\n<p>　　纯孝阐微咒：万般切己应为事，俱从一孝参观到，胸中认得真分晓，孝上行来总是道。 </p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5265/ok.mp3",
+                  "idjm": "46653FD803893E4F0B4B2F628D83F8AE",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3536,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5265,
+                      "ok": 22,
+                      "noOk": 2,
+                      "cont": "<p>　　真君说：我今天阐明教法，以告知众人。父母在世时，不对其赡养；父母去世后，不将其安葬，父母的福泽就不会延长。无故溺死女婴，无故杀死儿子。父母客死他乡，不去收埋骸骨，这些都是最大的不孝。只是奉养父母的衣食，还不算是孝敬；只有能够体恤父母的心思，促成父母的志愿，才算是最大的孝敬。父母在世时，不能尽到赡养的责任，待去世后虽然尽孝，但不足以算是孝敬；既能在父母在世时，尽到赡养的责任，又能在父母去世后尽孝，这才算是“至孝”。我的生母，我固然应当尽孝；后母庶母，我也应该尽孝道。我的母亲或许因过失而被父亲休掉，或者改嫁，但母亲生育我的劳苦，也是不可以背弃的。幼年就失去父母而孤苦伶仃，恩爱养育我的养父母，都不可忘记，何况是亲生父母。同母兄弟，我固然应当友爱；前母所生兄弟，我也应当友爱。亲生姐妹，我固然应当和敬，对于妯娌，我也应当和敬。我的亲生子女，我固然保爱；前妻所生的子女，我也应当保爱。一切善行，家人一起身体力行，无不是由此孝心推及而来。按照这个样子来尽孝，才能够真正为孝。于是开始知道百般品行，孝才是源头。</p>\r\n<p>　　我孝敬父母，不敬爱叔伯，不敬爱祖先，有损孝德。我孝敬父母，不爱子孙，不敦睦宗族，有损孝德。我孝敬父母，不和爱姻亲，不与乡邻和睦，有损孝德。我孝敬父母，不效忠君上，对师友不讲信用，有损孝德。我孝敬父母，不爱人民百姓，不怜恤万物的生命，有损孝德。我孝敬父母，不礼敬天地，不礼敬日月星辰三光，不礼敬天地神明，有损孝德。我孝敬父母，不敬奉圣贤，不远离恶人，有损孝德。我孝敬父母，非分地贪求财色，不顾性命，知道过错而不悔改，见有善行可为而不去做，有损孝德。奸淫毒害妇女，破坏人家的名声和节操，有损孝德。极力成全别人的名节，这算是大的孝行。虽能奉行各种善行，但不孝敬父母，终究只是小善；奉行各种善行，而又能够孝敬父母，这才称得上是“至善”。为孝之道，本于人心自然本性，没有一点勉强。不通过学习就能实行，随着自己的良心去做，所作所为自然就合乎孝道。读书明白了道理，用良心统率爱，用良心统率敬，自然就能够使孝圆满。愚夫俗子，不经过雕琢，没有不和暴戾之气，自然合乎孝道。假使他们具有了灵明的根性，知道用爱心来统率爱，知道用敬心来统率敬，这样，孝行就可以推行于外了。想知道在父母之前的孝敬，看儿子的容颜，就可以知道；想知道闺中女子的孝行，看妇女的容德威仪，就可以知道。孝子的行为端重大方，孝女文静贞洁。孝子温良恭敬，孝女顺从柔和。孝子行事诚恳，孝妇持身清洁。孝子率先行孝，就必定会有孝孙继承孝行。通过尽孝来修身，一身的品行就可以立正；通过尽孝来治家，全家就会和顺；通过尽孝来治国，国家就会充满仁爱；通过尽孝来治理天下，天下就会升平；通过尽孝来事奉天地，天地就会太平。孝道可以通达于天地，不分贵贱，都要尽孝。</p>\r\n<p>　　偈说：世上恩情的伤害总是由于金钱的缘故，这比其他各种事务尤为关键。兄弟之间应该相互通融，相互谦让，父母心里欢喜而家境也会吉祥。用钱财养育人民的生命就如哺乳幼儿，做高官事奉国君就如同赡养双亲一般。总之以慈爱孝道为源流，就会国家强盛，人民安居乐业，万物万事光明兴盛。</p>\r\n<p>　　又说偈道：子女因为依赖父母而得以安享，而不想着尽孝是否容易。只有遭受了困苦，才会知道尽孝的困难，难和易虽然不相同，但敬奉恭顺父母却并没有不同。</p>\r\n<p>　　又说偈道：今天我分辨什么是孝，是从夫妇关系开始着手的。孝子有赖贤惠妻子的帮助，互相帮助就能够使家庭得到治理。做皇后的唯有尽孝，做皇帝的才能继承好先皇传下的事业。做妻子的唯有尽孝，丈夫才能把家治理好。夫妻因为孝才能同气相协，安养双亲也并无别的心思。自古以来贤惠善良的妻子，其行动能成为丈夫规范。对上能够顺承婆婆的欢心，对下能够安抚慈爱媳妇。而自古以来嫉妒心强、生性泼悍的媳妇，其丈夫的行动就会被她所迷惑，不能够顺承婆婆的心意，对媳妇亦不能安抚慈爱。唯有尽力按照做妻子的规范行事，才可以做人家的媳妇；唯有尽力履行做媳妇的职责，方才可以做人家的婆婆。既有做媳妇的时候，也有做婆婆的时候。只要自己能够以身作则，自己的后人才有行为的标准。作嫔妃的和作侍妾的，只有行孝才能安身立命。妻子的德行能够促成丈夫的品行，一切都是从内室行为标准而来。牵涉关系重大，怎么可以轻越做女人的训条。</p>\r\n<p>　　又说偈道：从心来辨别孝，千万不能使其心有所不安分。从行为辨别孝，千万不能使行为有所偏颇。从时间来辨别孝，千万不要使其孝行有所改变。从伦常之理来辨别孝，千万不要使其孝行错乱。男女老少各自尽孝，家里家外都无过失。真诚和虚伪只在微茫之间，在行动之前应当反省警惕。</p>\r\n<p>　　又说偈道：以双亲的情怀为自己的情怀，最真诚的本性实在是绵绵不绝，这就是佛、菩萨，这就是成道的大罗仙。</p>\r\n<p>　　纯孝阐微咒：万种关系自己的应当做的事，全都可以由孝来观察到。只要认清了它真正的道理，本于孝道而行动，就一定会合乎道。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5264,
+                "prevIdjm": "46653FD803893E4FD16BE03E728867DC",
+                "nextId": 5266,
+                "nextIdjm": "46653FD803893E4FCD9AD66CA9672677"
+              }
+            },
+            {
+              "id": 5266,
+              "num": 0,
+              "nameStr": "守身章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FCD9AD66CA9672677",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5266,
+                  "num": 5,
+                  "nameStr": "守身章",
+                  "author": "佚名",
+                  "cont": "<p>　　真君曰：所谓孝子，欲体亲心，当先立身。立身之基，贵审其守。无身之始，身于何始？有身之后，身于何育？有挟俱来，不可或昧。当思在我，设处亲身，爱子之身，胜于己身，苦苦乳哺，望其萌芽，冀其成材，寸节肢体，日渐栽培，何一非亲。身自劳苦，得有此身，亲爱我身，如是之切，保此亲身，岂不重大，守此亲身，尤当倍笃。尊规合矩，如前所为，矜骄不形，淫佚不生，嗜欲必节。父母之前，声不高厉，气不麤暴，神色温静，举止持祥，习久自然，身有光明，九灵三精，保其吉庆，三尸诸厌，亦化为善，凡有希求，悉称其愿，兢兢终身，保此亲体，无亏而归，是谓守身。苟失其守，块然躯壳，有负父母，生而犹死，抑知人生。体相完备，即有其神，每日在身，各有处所，一身运动，皆神所周。神在脏腑，欲不可纵；神在四肢，刑不可受，纵欲犯刑，非伤即死。凡有身者，所当守护，守真为上，守心次之，守形为下。愚夫匹妇，无所作为，亦足保身，何尔聪明，奸为妄作，昧性忘身，沉溺欲海，全不省悟。大罗天神，观见斯若，发大慈悲，降生圣人，以时救度。惟兹圣人，躬先率孝，加检必谨，加恤必至，不忍斯人，堕厥亲身，一切栽持，遂其所守，种种孝顺，当身体物，体在一身，化在众生，畀兹凡有，同归于道，身居不动，肆应常普，如是守身，是为大孝。</p>\r\n<p>　　即说偈曰：亲视子身重，常轻己身轻，人何仅负己，损身背吾亲，莫将至性躯，看作血肉形，今生受用者，夙世具灵根。</p>\r\n<p>　　又说偈曰：一切本来相，受之自父母，谓身即亲身，人犹不之悟，谓亲即身是，重大不可误，完厥惺惺体，尽我所当务，无量大道身，圆满随处是。</p>\r\n<p>　　又说偈曰：同此亲禀受，一般形体具，善哉孝子身，超出浮尘世，以兹不磨守，保炼中和气，真培金液形，元养玉符体，广大不可限，生初岂有异。</p>\r\n<p>　　孝子金身咒：惟恐此光明孝子身，果是金刚不坏身，化成即在当身内，现出千千万亿身。 </p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5266/ok.mp3",
+                  "idjm": "46653FD803893E4FCD9AD66CA9672677",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3537,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5266,
+                      "ok": 23,
+                      "noOk": 2,
+                      "cont": "<p>　　真君说：所谓孝子，要想体恤双亲的心志，首先应当立身处世。立身的基始，最为重要的是要慎重自己的操守。没有人身的初始之时，我的身体是从何处而来的呢？有了人身之后，身体又是怎么得以抚育的呢？我有从出生挟持同来的良心，此心不可暗昧，我应当仔细想想。以父母的立场设身处地地想想，父母怜爱子女的身体，胜过爱护自己的身体。艰难地哺乳，期望他渐渐成长，希冀他能够成为有用的人。一寸一节肢体，日渐栽育培养。哪一点不是靠双亲勤劳保护，才得以有了我的存在？父母爱我此身，是如此的关切，好好保护此身，怎能不关系重大？守持好双亲给我的身体，尤其应当加倍地坚定。遵守规则符合规范，效法前人的行为。骄横傲慢之貌不显，淫欲放荡之心不生，节制自己的不良嗜好和欲望。在父母面前，声音不要太高，气息不要粗大；神色温柔娴静，行动举止舒缓。坚持久了就成为自然的事情。这样，身体就有光明，九灵三精等神就会保佑你吉祥；而三尸等邪神，也会化恶为善。凡有希望得到的东西，都会称心如愿。众生都小心谨慎，保护好双亲给我的身体，没有一点亏损而返归原初，这就是守身。如果不能持受，徒具躯壳，就会辜负父母，虽生犹死。</p>\r\n<p>　　哪里会懂得人生，形体相貌完备，就会有神，它每天都在人身中，身体各部位都是它的处所。整个身体的运动，都是由神主宰。神存在于五脏六腑，不可以纵欲；神存在于四肢，不可以受到刑罚。放纵欲望，触犯刑律，非死即伤。凡是有身体的人，都应当守护。保守真性是最上乘的，守持良心次之，保守形体最次。一般的平民百姓，没有什么作为，也可以做到保身。为什么你这么聪明，却去做奸妄之事，蒙昧心性，忘了自身，沉溺于欲海，却全然不知醒悟？天帝神仙看到这些，发大慈悲心，降生圣人，以便能够随时救度世人。只有这样的圣人，亲自率先躬行孝道。谨慎加倍地检察自己，加倍地爱恤自身。不忍心看到世人，将父母给予他们的身体堕落毁坏。一切栽培扶植，无非帮助他们实现保守身体的目的。种种孝顺的行为，当以自身体恤万物。体道虽是圣人一人，却能够感化众生。将此道理授给所有有身体的人，使其同归于孝道。守身不动，而又能广泛地应接事物，如此守身，那才是大孝。</p>\r\n<p>　　即说偈道：双亲非常看重子女的身体，常常将自己的身体看轻。人们为什么反而背叛自己，损坏自身而违背父母？不要将充满灵性的身躯，看作是血肉形体。今生之所以能够享受一切，是因为前世所造就的灵根。</p>\r\n<p>　　又说偈道：一切本来体相，从父母那里禀受而来。说自己身体即是双亲的身体，人们仍然不能明白这个道理。所谓父母即是自身，此理重大不可有误。保全这个聪明的躯体，完成我当前应作的要务。成就无量大道身，随处都圆满充足。</p>\r\n<p>　　又说偈道：每个人的形体都是秉承自父母，形体具备。好啊，孝子的身体，能够超越尘世。不磨灭自己的对身心的保养守护，保持炼养和谐的元气。以真气培养长生不死的身体，以元气涵养神仙体身。广大不可限量，有生之后的形体与原初的本性没有差异。</p>\r\n<p>　　孝子金身咒：唯有这个光明的孝子身，果真是金刚不坏身。一旦修化成就，即在自己身内显现千千万亿个化身。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5265,
+                "prevIdjm": "46653FD803893E4F0B4B2F628D83F8AE",
+                "nextId": 5267,
+                "nextIdjm": "46653FD803893E4FBEA13CC199B6CD7B"
+              }
+            },
+            {
+              "id": 5267,
+              "num": 0,
+              "nameStr": "教孝章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4FBEA13CC199B6CD7B",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5267,
+                  "num": 6,
+                  "nameStr": "教孝章",
+                  "author": "佚名",
+                  "cont": "<p>　　真君曰：孝自性具，教为后起，世多不孝，皆因习移。意既罔觉，智又误用，圣人在上，惟教为急，教之之责，重在师傅，尤当重择。贤良之师，化恶为善，不贤之师，变善为恶。师而不教，过且有归，教之不善，其罪尤大。不贤之师，导之匪僻，引之邪佞，养成不肖，流为凶顽，越礼犯纪，妄作无忌，虽欲救之，急难格化，如是为教，罪实非轻。药石之师，惟贤是与，行己端庄，导人忠信，教不他设，孝无畸行，因其本然，还所固有，朝敦夕诲，幼育长循，惟兹孝弟，化行是先，虽至愚氓，无不晓习。如是为教，功实不少，为功为罪，职岂易任，惟名尊严，其实如何？孝弟是宗，能孚孝者，弟亦本诸。助君为理，转移风俗，全在师儒。教不可误，师不可违，自重在师，率教在弟。孝原自具，有觉斯兴。</p>\r\n<p>　　偈曰：孝弟虽天性，良师当时省，一或千不孝，何能全弟行，罪愆有攸归，师实难卸任，能作如是观，训之方有定。</p>\r\n<p>　　又说偈曰：教虽赖良师，人亦当自谨，无自干不孝，徒然费师训。</p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5267/ok.mp3",
+                  "idjm": "46653FD803893E4FBEA13CC199B6CD7B",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3538,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5267,
+                      "ok": 13,
+                      "noOk": 0,
+                      "cont": "<p>　　真君说：孝是人性中本来自有的，教育尽孝则是后来出现的。世人多半不孝，都是因为习俗使其改变。愚笨之人不明道理，聪明的人又错用心思。圣人在上，唯独对于孝道而着急。教习孝道的责任，重要的是在师傅，尤其应当慎重选择。贤良的师傅，能将恶人化导成善人；不贤明的师傅，却能将善人变成恶人。作为师傅而不教导学生，师傅有过错，并对过错负有责任；而如果教导不好的东西，其罪过就更加重大了。不贤明的师傅，会教导人行为邪恶，引到奸邪的道路上，教成品行不端之人，流变为凶狂顽劣之人，毁越礼法，违犯法纪，胡作非为而没有忌惮。虽然想拯救这样的人，但急切间也难以改正变化。如果像这样为师教人，罪过实在是不轻。</p>\r\n<p>　　能够导人向善的师傅，只教人以贤良的品德。立身行事端正庄重，以忠信引导人，其他不合乎孝道的事情，不敢教人。孝道更没有畸巧，不过依于人的自然本性，复归人的固有善性。朝夕不断地敦促教导，长幼都依循而行，总要用此孝悌之道，先行教育化导。虽是愚笨之平民百姓，也没有不熟悉的。像这样教育学生，功德实在是不少。既能立功也能获罪，师傅一职不是那么容易胜任的。师傅的名称甚是尊贵威严，其实质又是什么呢？就是以“孝”“悌”为根本。如果能够以孝服人，“悌”的品质也就本于此而立了。帮助国君治理国家，移风易俗，完全在于以儒为师。师傅不可误人子弟，子弟不可以违背师傅。师傅应当自重自爱，弟子应当遵从教导。孝本来都是自性具备的，但有了师傅的提醒，孝心才得以兴起。</p>\r\n<p>　　偈说：孝悌虽然都是源自天性，但也有赖良师的时时警省。一干不孝的事情，怎么能使“悌”行圆满。罪愆有所源自，师傅实在难于推卸责任。能够有这样的认识，训导弟子才能有确定的准则。</p>\r\n<p>　　又有偈说：教化虽然有赖好的师傅，人们也应当自己谨慎。无故做不孝的事情，就白白地浪费了师傅的教训。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5266,
+                "prevIdjm": "46653FD803893E4FCD9AD66CA9672677",
+                "nextId": 5268,
+                "nextIdjm": "46653FD803893E4F67AA1ADCF4DA6677"
+              }
+            },
+            {
+              "id": 5268,
+              "num": 0,
+              "nameStr": "孝感章",
+              "author": null,
+              "cont": null,
+              "bookName": null,
+              "fenlei": "",
+              "yiyi": false,
+              "creTime": "/Date(-62135596800000)/",
+              "bookID": 0,
+              "langduUrl": null,
+              "idjm": "46653FD803893E4F67AA1ADCF4DA6677",
+              "bookIDjm": null,
+              "content": {
+                "tb_bookview": {
+                  "id": 5268,
+                  "num": 7,
+                  "nameStr": "孝感章",
+                  "author": "佚名",
+                  "cont": "<p>　　帝君曰：吾证道果，奉吾二亲，升不骄境，天上聚首，室家承顺，玉真庆宫，逍遥自在。吾今行化，阐告大众，不孝之子，百行莫赎；至孝之家，万劫可消。不孝之子，天地不容，雷霆怒殁，摩煞祸侵；孝子之门，鬼神护之，福禄畀之。惟孝格天，惟孝配地，惟孝感人，三才化成；惟神敬孝，惟天爱孝，惟地成孝。水难出之，火难出之，刀兵刑戮，疫疠凶灾，毒药毒虫，冤家谋害，一切厄中，处处佑之。孝之所至，地狱沉苦，重重救拔，元祖宗亲，皆得解脱，四生六道，饿鬼穷魂，皆得超升，父母沉疴，即时痊愈。三十六天，济度快乐；七十二地，灵爽逍遥。是以斗中，有孝弟王，下有孝子，光曜乾坤，精贯两仪，气协四维，和遍九垓，星斗万象，莫不咸熙。神行河岳，海波不扬；遐荒是奠，遐尔均孚，孝之为道，功德普遍。</p>\r\n<p>　　偈曰：迹显心亦显，感应固神妙，若有心不孝，盗名以为孝，假以欺世人，中实难自道，迹或似不孝，身心实尽孝，世人竞黜之，心惟天可告，独此两等人，感不漏纤毫，天鉴不可期，祸福时昭报。</p>\r\n<p>　　真君曰：凛哉凛哉，今劝世人，遵吾修行，感应之机，速于众善。背吾所言，天条不赦，万劫受罪。夫人之生，养亲有缺，且难为子，何况世人，毁骂父母，腹诽父母，亲且毁骂，殴叔詈伯，弑君凌师，无所不为。子在怀抱，气不忍吹，及其长也，爱之者真，训之者严。以爱子心，用之挞楚。挞即是爱，嗔亦是爱，即有盛怒，子惟柔顺，欲再杖时，手不能下。何尔世人，拒亲责己，如抗大敌，天怒地变，岂容大逆。子有病厄，亲处不安；何于亲疾，绝不关心。子有劳苦，亲关痛痒；何况我体，犯法极刑。子苟不育，泪不曾干，冀其重生，伤人七情。何尔世人，父母终天，未及三年，思慕中衰，飨祭失时，亲骨不葬，且干不孝。何尔世人，贫发亲冢，卖穴暴露，嗟尔父母，念念及子；何尔世人，凡事用心，独于父母，有口无心，不肯实为。人之一身，诸般痛楚，何处可受，何尔化外，火焚亲尸，全无隐恻，美名不葬，于心最忍。夫人之死，口不能言，肢体难动，心实不死，犹知痛苦，过七七日，心之形死，其形虽死，此心不灵，千年不死，火焚而炽，碎首裂骨，烧筋炙节，立时牵缩，心惊肉跳，若痛苦状，俄顷之间，化为灰烬。于人且惨，何况我亲。仰知冥狱，首重子逆，开罪本慈，人自罪犯，多致不孝，自罹冥法。人尽能孝，多致善行，地狱自空。一节之孝，冥必登记，在在超生，诵是经者，各宜省悟。苟无父母，乌有此身，报恩靡尽，衔慈莫极，人果孝亲，惟以心求，生集百福，死到仙班，万事如意，子孙荣昌，世系绵延，锡自斗王，是经在处，可镇经藏，可概万行，厌诸魔恶，成大罗仙，长保亨衢，何乐不从。</p>\r\n<p>　　孝感神应咒：禔啝禔啝，人子心曲，仰事俯育，一家气和，飞鸾广度，乐恺先歌，如意宝光，普照长怤。禔啝禔啝，尽孝靡他，解尽亲厄，消尽亲过，罪灭福生，孝思不磨，超脱九幽，永离网罗，欲报亲慈，惟心常慕。禔啝禔啝，至孝诚孚亲生，福禄寿增多，归去逍遥升天都，孝思不磨乐，佗娑唵娑诃。但愿人子心，常如在母腹，一呼一吸中，吮血茹膏液，一血一脉间，俱属在父怙，情虽性发，依为命府，阴阳日月从此龢，乾坤翕辟从此龢，五声六律五行龢，五伦妙道从此龢，太虚有尽处，孝愿无嗟磨。佗娑佗娑娑佗娑佗唵唎婆啝。</p>\r\n<p>　　孝子文印偈曰：至文本无文，韫之孝道中，发现自成章，司之岂容泄。天聋与地哑，非聋亦非哑。特将天地秘，不使尽人解，朱衣与魁光，变幻文人心，遇彼纯孝子，塞其聪明路；遇彼纯孝子，开其智慧途。凡才作仙品，仙品作凡才。文虽有高下，黜陟岂人操，或因前生报，或因今生报，今生或后报，必当为孝显，文章作证明，阐扬在大道。</p>\r\n<p>　　孝子桂苑天香心印偈曰：我有蟾宫桂，仙品真足贵，禀蕴斗星灵，包含月华精，元和钟妙蕊，枝根挺天衢，苍龙覆七曲，光辉连玉宇，栽得大灵根，吐兹百宝芬，一萼目天逗，大地万花稠，流化在人间，所到无不周，纷纷世上胄，植香岂不茂。易茂亦易落，暂而不能久，无如天上桂，一萼胜千数，愈散觉愈远，愈远觉愈悠，香随九天翔，浩荡风清飚，声怀万会秋，真妙永无量，名之为金粟，载之在奎斗，珍贮庆宫中，高占壁楼头。不是擎元叟，莫得主其有；若非植善手，莫得攀兹秀。勿与轻薄子，必以孝为首，莫下害良笔，莫使亵字手。孝子之所为，我当赍赐厚，千祥凝聚处，早把天香授。果是诚孝子，不求而自授。不孝不弟人，求攀终莫有，变孝妄行道，有必夺其有，悔逆猛从孝，无仍赐其有。圣人孝天地，大位帝眷佑，须知世所贵，必从天上酬，祈游桂苑者，宜认此来由，中间莫错路，自有非常遘。亿色花香里，重重宝光覆，洞明万户玲，天天叠文秀，凝成篆籀章，结合五霞构，秘策列缤纷，仙韵不停流，悉在光中过，遍照大神州，盘旋观不尽，群仙晤且逅，花随步履扬，馥自冠裳透，略嗅云霄桂，洗尽尘俗垢，千孔与百窍，感香俱灵牖，心腑也充满，福缘无不偶，入圊独推元，垂芳能不朽，宝哉勿轻锡，慎重待孝友。</p>\r\n<p>　　吾奉九天元皇帝律令，乃说赞曰：纯孝本性生，无不备于人，体之皆具足，践履无难循，以此瞻依志，无忝鞠育心，在地自为纪，在天即为经，生民安饮食，君子表言行，父母天亲乐，无奇本率真。人人若共道，家国贺太平，放之充海宇，广之塞乾坤，孝行满天下，尘寰即玉京。</p>\r\n<p>　　说赞未毕，声周三界，惠日蔼风，一时拥护。尔时有朱衣真君，恭敬稽首，深会妙旨，演为慈孝钧天大罗妙乐，以广圣化，爰命金童玉女，著五色霞衣，按歌起舞，奏曰：</p>\r\n<p>　　教孝有传经，奏恺成声，母慈昱昱，父爱甄甄，子色循循；妻婉婉，夫誾誾，兄秩秩，弟恂恂，姑仁媳敬承；父携子，祖携孙，恩勤室蔼蔼，家溱溱，俱是父母一般心。乐衎衎，何地不生，至性中笃，实天情，欢腾普天下，亿兆声蒸。气洽谈门屏，俱如家人，父母一般心。有身有亲，始信有君。有臣有民，师弟良朋，咸归于贞，邦家总孝成。愿人生过去父母，早升紫庭，现在父母，祺禄享遐龄，化遍乾坤中和，瑞凝九光雯百，和音漠漠，天钧瀜瀜，六宇听雝鸣，并坐长春，并坐鸾笙，直上瑶京达帝闻。</p>\r\n<p>　　尔时乐舞三寻，天龙凤族，声和翔集，众籁腾空，香花围绕，其君喜悦，手举如意，更示大众，我力演教，宣扬妙道，慈孝感洽，化应曛徴，遂如是观，众等宝之，传写广劝。劝一人孝，准五百功，劝十人孝，准五千功。自身克孝，当准万功，事后母孝，准万万功，亲亡事祖，如孝父母，准万万功，善哉善哉。谛听吾言。于是朱衣魁星，天聋地哑及诸仙众，欢喜踊跃，命诸掌籍，载之玉册，信受奉行。</p>\r\n<p>　　又赞：元皇孝道，万古心传，通天彻地妙行圆；仙佛亦同然。化度无边，中和位育全。南斗文昌元皇大道真君。 </p>",
+                  "bookName": "文昌孝经",
+                  "fenlei": "",
+                  "yiyi": false,
+                  "creTime": "/Date(-62135596800000)/",
+                  "bookID": 64,
+                  "langduUrl": "https://song.gushiwen.cn/machine/bookview/5268/ok.mp3",
+                  "idjm": "46653FD803893E4F67AA1ADCF4DA6677",
+                  "bookIDjm": "46653FD803893E4F8779184BC5D59E23"
+                },
+                "tb_fanyis": {
+                  "bvfanyis": [
+                    {
+                      "id": 3539,
+                      "nameStr": "译文",
+                      "author": "佚名",
+                      "bookvID": 5268,
+                      "ok": 21,
+                      "noOk": 1,
+                      "cont": "<p>　　帝君说：我征得道果，侍奉我的双亲，升入不骄帝境，家人在天上聚首，妻妾遵奉顺从，在玉真庆宫里，逍遥自在。我今天施行教化，阐述告知大众：不孝的子女，百种善行都不能救赎他的罪过；达到至孝的人家，万般劫难都能够消除。不孝的子女，天地不容，雷霆怒击，魔鬼恶煞用各种灾祸侵袭他；孝子之家，鬼神保护他，福禄赐予他。唯有孝能够感通天，唯有孝能够配享地，唯有孝能够感化人，天地人三才得以化生长成。唯有神敬重孝，唯有天热爱孝，唯有地成就孝。无论是出现水灾，出现火灾，刀兵刑戮，疾病瘟疫，毒药毒虫，冤家谋害，一切灾厄中，处处都能得到神灵的佑护。孝所到之处，沉沦于地狱的苦难，都会得到解救；始祖宗族，都会得到解脱；四生六道中的恶鬼穷魂，都能得到超升；父母的重病，即时痊愈。三十六天中，以济度为快乐；七十二福地，魂灵逍遥自在。所以在斗星之中，有孝悌王，在下界有孝子，光耀天地，精气贯通天地，协调四方，协和九重天之内的万物，星斗万象，无不兴盛。神行遍江河山岳，海波不扬；遥远的地方进献贡物，远近的人们都信服可见。孝作为道，其功德广布，遍及一切。</p>\r\n<p>　　偈说：行迹显现，人心也就会显现，善恶感应也固然神妙。如果心里不孝，而为了窃取声名而行孝，这是假借孝之名欺骗世人，中间的道理实在难以说明。有人行为好像是不孝，而身心却实在是尽孝，世人竞相贬低攻击他，其心思只能告知上天。唯独这两种人，感应不漏一丝一毫。天的鉴察不可欺瞒，祸福报应时常昭显。</p>\r\n<p>　　真君说：畏惧啊！畏惧啊！现在我劝化世人，遵照我所说的去修行。天人感应的征兆，快于孝之外的各种善行。违背我的教导，上天的法则也不会赦免他，就会万劫不复，永远受到罪罚。人生在世，不能圆满地奉养双亲，尚且难以成为合格的子女，更何况现今之人，诋毁咒骂父母，嘴里虽不说，而在心里非议父母。双亲都敢诋毁咒骂，更不用说殴打咒骂叔伯，弑害君主，凌辱老师，以至于无所不为。子女在父母怀抱中时，父母都不忍心气息吹到他们。等到子女长大，对他们爱得真切，教训得也很严厉。从爱护子女的心出发，鞭挞教训子女，这样的鞭挞是对子女的爱，嗔怒也是对子女的爱。父母就是对子女勃然大怒，子女也只有婉柔顺从。父母再想痛打时，也下不了手。为什么现今之人，拒绝双亲责备自己，与父母抗衡，如面临大敌一样。此时，天地也会动怒，岂能容忍这样大逆不道的人。子女有了病痛灾难，父母坐立不安。奈何对于父母的疾苦，子女却完全不放在心上。子女有了劳苦，都事关父母的痛痒，何况我犯了王法，身体受了极刑。子女如果夭折，父母眼泪就未曾干过，希望他能够获得重生，伤心痛彻心扉。为什么现今之人，在父母亡故后，还不到三年，对父母的思念敬慕就已经中断了，供奉祭祀不及时，父母的骨骸久停不葬，并且干不孝的事情。为什么现今之人，贫穷后就发掘双亲的坟墓，出卖墓穴，使父母的尸骨暴露。可叹你们的父母，念念都想到你们。为什么现今之人，对事关自己的一切事情都非常用心地去做，唯独对事关父母的事情，有口无心，不肯实在用力去做。人的一身，对于各种痛苦，哪一处能够承受？为什么没受教化的化外之人，用火焚烧父母的尸体，一点都没有恻隐之心，并且还冠以火葬的美名，这样的心肠是最狠毒的。人死之后，口不能说话，肢体不能活动，但人的心却实在还没有死，仍然能够感知痛苦。过了七七之后，心的肉体死去。虽然心的肉体已经死去，但心的灵魂，千年不死。用火焚烧地非常炽烈，头颅碎裂，骨骼破裂，燃烧筋脉，炙焚关节，尸体立刻就收缩，心惊肉跳，就好比是痛苦的形况。转瞬之间，化成灰烬。这对于人来说都是凄惨的，更何况是我的父母？可知道，地狱首先重责忤逆之罪。阎罗王本来是慈悲的，只是人自己主动犯罪，从而导致不孝，触犯冥界律法。如果人都能够尽孝，多做各种善行，地狱自然就空了。每一件孝的行为，冥神必会登记，从而处处超生。诵读此经的人，各自都应当反省觉悟。如果没有父母，就没有我身，报答父母的恩情没有尽头，感激父母的慈爱没有终极。人们果真孝敬父母，只有用心去求取。活着就会百福聚集，死后就能位列仙班；万事如意，子孙尊荣昌盛，祖宗的血脉绵延永存，这都是得自北斗星君的恩赐。有这部经所在的地方，可以镇守佛藏道经，可以概括各种行为，镇压一切魔鬼恶神，成为大罗神仙，长久保持通达顺利，为什么不乐于听从呢？</p>\r\n<p>　　孝感神应咒：禔啝禔啝，人子的心事是，对上能奉养父母，对下能抚育妻小，一家人和气。神人驾着鸾鸟普度众生，欢快的乐曲到处飘荡，如意的祥光，普照永远喜乐之人。禔啝禔啝，尽孝不是为了别的，而是要解除双亲的所有的灾厄，消除双亲所有的过错，从而罪过灭尽，福气多生。孝的心念不灭，就能超脱鬼域，永离灾难的罗网。想要报答双亲的慈恩，只有心里常常慕恋孝道。禔啝禔啝，尽孝诚信，可以使父母的福禄滋生，寿命增长，死后能够逍遥升至天府，孝亲之思不灭，福乐永远，佗娑唵娑诃。但愿子女的心，常常像在母亲腹中一样，一呼一吸，吸食母亲的脂膏和血液；一血一脉，都倚仗父亲的扶持。情虽然是发自心性，是命的依靠，阴阳日月都是从这里得到协调，天地的运行是从这里得到调和，五声六律五行和谐，五伦妙道也是从这里得到协调。宇宙有尽头，孝的心愿不磨灭。佗娑佗娑娑佗娑佗唵唎娑啝。</p>\r\n<p>　　孝子文印偈说：非常好的文章本自无文，蕴藏在孝道中，发现它的道理就能自然成章，实行起来是不能有一点泄露。天聋和地哑，并不是真的聋，也不是真的哑，是特别为了使天地的秘密，不尽被人所解知。朱衣神和魁星，变幻文人心智。遇到不孝的子女，就会阻塞其聪明的道路；遇到纯洁的孝顺子女，就会开辟其智慧的道路。平凡才智的人可以列入仙品，具有仙品的人也会成为凡才。文章的好坏虽有高下之分，贬斥和提升都不是人所能操控的。或者是因为前生今报，或者因为今生今报，今生报或后世报，都必定是通过孝而得到显扬。用文章作证明，说明和宣扬在于大道。</p>\r\n<p>　　孝子桂苑天香心印偈说：我有蟾宫的桂枝，仙品是非常珍贵的。禀藏着斗星的灵气，包含月亮的精华。元和之气聚集在奇妙的花蕊，枝根挺向广阔天空。苍龙覆含着东方七宿，光辉连着宇宙。栽培大灵根，吐出百宝的芬芳。一个花萼就能看到天的尽头，大地万花稠密。流化于人间，所到之处无不周全。尘世上众多的后代，种植后怎能不繁茂。容易繁茂，也容易衰落，只能暂时而不能长久。不如天上的桂枝，一萼就胜过尘世的成千上万个。越发散就越觉得远，时间越长，就越觉得悠香。香气在九天飞翔，随着清风飚风浩浩荡荡。馨香包藏万秋，真实奇妙永远不可限量。以金粟为名，装载在奎斗。珍藏在玉真庆宫中，高高地占据璧楼顶。不是持受善的长者，是不能主宰它的。如果不是行善人的手，是不能攀摘这样的美丽花朵的。不能给予轻薄的人，必定给以行孝为首的人。不要下笔损害忠良，不要使用亵渎文字的手。对于孝子的所作所为，我必定对其厚加奖赏。在千祥凝聚的地方，早点把芳香的桂花授给他。如果真是至诚的孝子，不用祈求我自然就会授给他。不孝不悌的人，就是攀求也不会得到。改变孝行，倒行逆施，即使有了也必定会被剥夺。悔改违逆而大力行孝，即使原本没有这福分，上天也会赐予。圣人孝敬天地，文昌帝君就会眷顾保佑他得到显贵的官位。必须知道尘世所贵重的东西，必定来自上天的酬报。祈望遨游桂苑的人，应当认清楚这个缘由。在里面不要认错道路，自然会有非常的遭遇。裹身在亿种花香里，覆盖在重重宝光中。照亮千家万户，每天都增加文才。凝结成各种文章，结成五彩云霞。奥妙文书缤纷排列，神仙的声韵不停地飘流。全都在光明中流过，遍照神州大地。徘徊停留而看不完，群仙不期而遇。花朵随着脚步纷扬，芳香从衣帽中透散出来。略微闻过天上的桂香，就能洗尽尘俗的污垢，千孔百窍，感受到香味都获得灵气。心肝脏腑也充满灵气，福分没有不成双成对而至的。入圃被推为魁首，流芳万世而不朽。宝贵的东西啊，不轻易赐予，慎重地等待孝顺父母友爱兄弟的人。</p>\r\n<p>　　我奉九天元皇帝的律令，就此说赞：纯粹的孝来自人的本性，人人无不具备。用心体究，人人具备，实践起来也不难遵循。从这里看其心志，无愧于父母养育的用心。在地就成为法度法则，在天就成为纲纪准则。人民安然饮食，君子彰显言行，父母天伦之乐，这些都平淡无奇，而是本自率真的心性。如果人人都遵守，家国共贺太平。放之则可以充塞宇内，广布则可以塞满天地。孝行布满天下，尘世即是仙境。</p>\r\n<p>　　说赞尚未完毕，声音已传遍三界。和煦的阳光与轻风，立即围上拥护。这时，有个朱衣真君，恭敬地跪拜作礼，深深地领会了其中的精深旨意，演绎为慈孝钧天大罗妙乐，以广泛传播圣人的教化。于是命令金童玉女穿上五色霞衣，闻歌起舞，演奏唱道：教化孝道有相传的经典，奏出动听的乐曲。母亲的慈爱放出光明，父亲慈爱飞扬涌动，子女循规蹈矩。妻子委婉和顺，丈夫谦和恭敬；兄长肃敬，弟弟恭顺；婆婆仁爱，媳妇恭顺。父亲提携子女，祖父提携孙子，恩爱勤劳。家庭和睦繁盛，都与父母一样的心。和和乐乐，无处不在。内心廉正，行为淳厚的品性，是与生俱来的。欢腾遍及天下亿兆人民，家家和气融洽，都如家人父子一般心。有己身有双亲，才开始相信有君主、臣子、人民。老师、弟子和好友，同归于正直，家国总是由孝而成就的。希望人们去世的父母，早日升到天庭；现时的父母，福禄双全，享有长寿。教化遍及天地，中和祥瑞之气凝聚，有五光十色的云彩，和谐的乐音。云蒸霞蔚的天空，和畅的天地四方，听和谐音乐和鸣声。同坐长春宫，听笙的乐声，直升到玉京仙境，知晓帝君的说法。当时，音乐歌舞演了三遍，天龙凤鸟，声音和在一起，飞集在一处。各种声响升空，香花围绕。文昌帝君欢心喜悦，手举如意，再次开示大众：我正致力于弘扬教义，宣扬高妙的道法，慈孝互相感通融洽，随顺化除昏暗。就作如此看法。大家珍爱这部经书，广泛地传写劝化。劝一人行孝，准有五百功德。劝十人行孝，准有五千功德。自己能够恪守孝道，应该准有万个功德。孝敬后母，准有万万个功德。双亲亡故后事道见病卧奉祖先，如同孝敬父母一样，准有万万个功德。好啊！好啊！注意听我说的话。于是朱衣魁星，天聋地哑，及众多神仙，欢喜雀跃，命令各位掌籍，记载在玉册之上，相信接受，并且遵照实行。</p>\r\n<p>　　又赞源自元皇的孝道，万古以来心心相传，通天彻地妙行圆满，仙佛也都是与此相同。感化救度众生法力无边，中正平和，万物都能够各得其所而生长发育。南斗文昌元皇大道真君。</p>",
+                      "isPass": false,
+                      "ipStr": null,
+                      "creTime": "/Date(-62135596800000)/",
+                      "cankao": "佚名.360doc.http://www.360doc.com/content/12/0725/12/6956316_226349732.shtml",
+                      "isYuanchuang": false
+                    }
+                  ],
+                  "masterTitle": "得到典籍翻译列表"
+                },
+                "tb_author": null,
+                "prevId": 5267,
+                "prevIdjm": "46653FD803893E4FBEA13CC199B6CD7B",
+                "nextId": 0,
+                "nextIdjm": "46653FD803893E4FF99C0E013AA86B06"
+              }
+            }
+          ],
+          "masterTitle": "通过典籍获取章节"
+        },
+        "tb_author": {
+          "id": 0,
+          "idnew": null,
+          "nameStr": null,
+          "cont": null,
+          "chaodai": null,
+          "pic": null,
+          "likes": 0,
+          "ipStr": null,
+          "creTime": "/Date(-62135596800000)/",
+          "shiCount": 0,
+          "juCount": 0,
+          "idsc": null
+        }
+      }
+    }
+  ]
+}
